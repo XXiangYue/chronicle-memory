@@ -1,0 +1,50 @@
+{
+  "original_commit": "f6818662fdf4d845732545c34b63776a3960b694",
+  "measurement_date": "2026-11-01",
+  "export_date": "2026-11-05",
+  "original_files": [
+    {
+      "source": "evidence/P2/public_main_v1/trials.jsonl",
+      "sha256": "01072eec3c927ae20d2de18e0c6fbbdbbffab7b4205e066574ed5c33c1a57f94",
+      "bytes": 49821012,
+      "published": "results/public_trials.jsonl"
+    },
+    {
+      "source": "evidence/P2/public_main_v1/protocol.lock.json",
+      "sha256": "7849b9ad69828abf9789320302a4829da8655d6655232f0dc874b06ea9239250",
+      "bytes": 10510,
+      "published": "results/public_main_v1_protocol.lock.json"
+    },
+    {
+      "source": "evidence/P2/public_main_v1/primary_cost_window.json",
+      "sha256": "6a6b0600a74a4515a9bc52bd47fefa6224b18d527d04b05f60472c790e194453",
+      "bytes": 142019,
+      "published": "results/public_main_v1_primary_cost_window.json"
+    },
+    {
+      "source": "evidence/P2/custom_main_v1/summary.json",
+      "sha256": "f59aef30ed3af88d0efbad20361f58b3620802ebaa925dec7a11e0ad4561352c",
+      "bytes": 3291,
+      "published": "results/custom_main_v1_summary.json"
+    },
+    {
+      "source": "evidence/P2/equal12_control_v1/summary.json",
+      "sha256": "022fcd7d8344c4df2ec1dfa0f2ca6aa384c8d01d82d987592c0881ce5ba6d8ca",
+      "bytes": 217,
+      "published": "results/equal12_control_v1_summary.json"
+    },
+    {
+      "source": "evidence/P2/ingest_exit_v1/summary.json",
+      "sha256": "a2c4f08a11490c3573015de837c324f2685bc2b7120756b56b4fcd0f7c3a1b81",
+      "bytes": 286,
+      "published": "results/ingest_exit_v1_summary.json"
+    },
+    {
+      "source": "evidence/P2/time_deletion_scope_v1/summary.json",
+      "sha256": "79cf62787a91827fab76abdef9ce342d9bea295462bca95cb75c32fcea25cc2e",
+      "bytes": 17997,
+      "published": "results/time_deletion_scope_v1_summary.json"
+    }
+  ],
+  "export_policy": "Numeric/state records and constructed fixtures only. Private local paths are normalized. Model transcripts, benchmark source text, databases, credentials and caches remain outside Git. All original local evidence is preserved."
+}

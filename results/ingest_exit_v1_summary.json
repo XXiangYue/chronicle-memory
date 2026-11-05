@@ -1,0 +1,14 @@
+{
+  "exit_code": 74,
+  "before_retry": {
+    "sources": 0,
+    "chunks": 0,
+    "integrity": "ok"
+  },
+  "after_retry_twice": {
+    "sources": 1,
+    "chunks": 1
+  },
+  "passed": true,
+  "scope": "Single controlled ingest/FTS transaction exit, not all hardware/filesystem crash modes"
+}

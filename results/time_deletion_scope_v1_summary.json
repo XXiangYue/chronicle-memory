@@ -1,0 +1,648 @@
+{
+  "all": {
+    "num": 11,
+    "den": 18,
+    "value": 0.6111111111111112
+  },
+  "eligibility": {
+    "num": 18,
+    "den": 18,
+    "value": 1.0
+  },
+  "rows": [
+    {
+      "case": "not_yet_known",
+      "arm": "M0",
+      "answer_correct": false,
+      "eligibility_pass": true,
+      "success": false,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 225,
+        "completion_tokens": 15,
+        "total_tokens": 240,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 225
+      }
+    },
+    {
+      "case": "not_yet_known",
+      "arm": "M1",
+      "answer_correct": false,
+      "eligibility_pass": true,
+      "success": false,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 225,
+        "completion_tokens": 15,
+        "total_tokens": 240,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 225
+      }
+    },
+    {
+      "case": "not_yet_known",
+      "arm": "M2",
+      "answer_correct": false,
+      "eligibility_pass": true,
+      "success": false,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 225,
+        "completion_tokens": 15,
+        "total_tokens": 240,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 225
+      }
+    },
+    {
+      "case": "retroactive_correction_known",
+      "arm": "M0",
+      "answer_correct": true,
+      "eligibility_pass": true,
+      "success": true,
+      "answer": {
+        "answer": "1100元",
+        "abstain": false,
+        "citations": [
+          "correction"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "correction",
+          "date": "2026-10-20T00:00:00",
+          "text": "更正：10月1日起赤杉实验的预算应为1100元，旧记录900元有误。更正凭证编号COR-773。"
+        },
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 285,
+        "completion_tokens": 21,
+        "total_tokens": 306,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 157
+      }
+    },
+    {
+      "case": "retroactive_correction_known",
+      "arm": "M1",
+      "answer_correct": true,
+      "eligibility_pass": true,
+      "success": true,
+      "answer": {
+        "answer": "1100元",
+        "abstain": false,
+        "citations": [
+          "old",
+          "correction"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        },
+        {
+          "source_id": "correction",
+          "date": "2026-10-20T00:00:00",
+          "text": "更正：10月1日起赤杉实验的预算应为1100元，旧记录900元有误。更正凭证编号COR-773。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 285,
+        "completion_tokens": 23,
+        "total_tokens": 308,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 157
+      }
+    },
+    {
+      "case": "retroactive_correction_known",
+      "arm": "M2",
+      "answer_correct": true,
+      "eligibility_pass": true,
+      "success": true,
+      "answer": {
+        "answer": "1100元",
+        "abstain": false,
+        "citations": [
+          "old",
+          "correction"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        },
+        {
+          "source_id": "correction",
+          "date": "2026-10-20T00:00:00",
+          "text": "更正：10月1日起赤杉实验的预算应为1100元，旧记录900元有误。更正凭证编号COR-773。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 285,
+        "completion_tokens": 23,
+        "total_tokens": 308,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 157
+      }
+    },
+    {
+      "case": "current_change",
+      "arm": "M0",
+      "answer_correct": true,
+      "eligibility_pass": true,
+      "success": true,
+      "answer": {
+        "answer": "1200元",
+        "abstain": false,
+        "citations": [
+          "future",
+          "correction"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "future",
+          "date": "2026-10-30T00:00:00",
+          "text": "2026年10月30日起赤杉实验预算调整为1200元；在此之前按更正后的1100元执行。"
+        },
+        {
+          "source_id": "correction",
+          "date": "2026-10-20T00:00:00",
+          "text": "更正：10月1日起赤杉实验的预算应为1100元，旧记录900元有误。更正凭证编号COR-773。"
+        },
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 339,
+        "completion_tokens": 23,
+        "total_tokens": 362,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 211
+      }
+    },
+    {
+      "case": "current_change",
+      "arm": "M1",
+      "answer_correct": false,
+      "eligibility_pass": true,
+      "success": false,
+      "answer": {
+        "answer": "1100元",
+        "abstain": false,
+        "citations": [
+          "correction",
+          "future"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        },
+        {
+          "source_id": "future",
+          "date": "2026-10-30T00:00:00",
+          "text": "2026年10月30日起赤杉实验预算调整为1200元；在此之前按更正后的1100元执行。"
+        },
+        {
+          "source_id": "correction",
+          "date": "2026-10-20T00:00:00",
+          "text": "更正：10月1日起赤杉实验的预算应为1100元，旧记录900元有误。更正凭证编号COR-773。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 339,
+        "completion_tokens": 23,
+        "total_tokens": 362,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 211
+      }
+    },
+    {
+      "case": "current_change",
+      "arm": "M2",
+      "answer_correct": true,
+      "eligibility_pass": true,
+      "success": true,
+      "answer": {
+        "answer": "1200元",
+        "abstain": false,
+        "citations": [
+          "future",
+          "correction"
+        ]
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        },
+        {
+          "source_id": "future",
+          "date": "2026-10-30T00:00:00",
+          "text": "2026年10月30日起赤杉实验预算调整为1200元；在此之前按更正后的1100元执行。",
+          "quote": "2026年10月30日起赤杉实验预算调整为1200元；在此之前按更正后的1100元执行。",
+          "valid_from": "2026-10-30T00:00:00"
+        },
+        {
+          "source_id": "correction",
+          "date": "2026-10-20T00:00:00",
+          "text": "更正：10月1日起赤杉实验的预算应为1100元，旧记录900元有误。更正凭证编号COR-773。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 387,
+        "completion_tokens": 23,
+        "total_tokens": 410,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 259
+      }
+    },
+    {
+      "case": "other_scope",
+      "arm": "M0",
+      "answer_correct": true,
+      "eligibility_pass": true,
+      "success": true,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "future",
+          "date": "2026-10-30T00:00:00",
+          "text": "2026年10月30日起赤杉实验预算调整为1200元；在此之前按更正后的1100元执行。"
+        },
+        {
+          "source_id": "correction",
+          "date": "2026-10-20T00:00:00",
+          "text": "更正：10月1日起赤杉实验的预算应为1100元，旧记录900元有误。更正凭证编号COR-773。"
+        },
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 334,
+        "completion_tokens": 15,
+        "total_tokens": 349,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 206
+      }
+    },
+    {
+      "case": "other_scope",
+      "arm": "M1",
+      "answer_correct": true,
+      "eligibility_pass": true,
+      "success": true,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        },
+        {
+          "source_id": "correction",
+          "date": "2026-10-20T00:00:00",
+          "text": "更正：10月1日起赤杉实验的预算应为1100元，旧记录900元有误。更正凭证编号COR-773。"
+        },
+        {
+          "source_id": "future",
+          "date": "2026-10-30T00:00:00",
+          "text": "2026年10月30日起赤杉实验预算调整为1200元；在此之前按更正后的1100元执行。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 334,
+        "completion_tokens": 15,
+        "total_tokens": 349,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 206
+      }
+    },
+    {
+      "case": "other_scope",
+      "arm": "M2",
+      "answer_correct": true,
+      "eligibility_pass": true,
+      "success": true,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        },
+        {
+          "source_id": "correction",
+          "date": "2026-10-20T00:00:00",
+          "text": "更正：10月1日起赤杉实验的预算应为1100元，旧记录900元有误。更正凭证编号COR-773。"
+        },
+        {
+          "source_id": "future",
+          "date": "2026-10-30T00:00:00",
+          "text": "2026年10月30日起赤杉实验预算调整为1200元；在此之前按更正后的1100元执行。",
+          "quote": "2026年10月30日起赤杉实验预算调整为1200元；在此之前按更正后的1100元执行。",
+          "valid_from": "2026-10-30T00:00:00"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 383,
+        "completion_tokens": 15,
+        "total_tokens": 398,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 255
+      }
+    },
+    {
+      "case": "deleted_quote",
+      "arm": "M0",
+      "answer_correct": true,
+      "eligibility_pass": true,
+      "success": true,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "future",
+          "date": "2026-10-30T00:00:00",
+          "text": "2026年10月30日起赤杉实验预算调整为1200元；在此之前按更正后的1100元执行。"
+        },
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 272,
+        "completion_tokens": 15,
+        "total_tokens": 287,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 144
+      }
+    },
+    {
+      "case": "deleted_quote",
+      "arm": "M1",
+      "answer_correct": true,
+      "eligibility_pass": true,
+      "success": true,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "future",
+          "date": "2026-10-30T00:00:00",
+          "text": "2026年10月30日起赤杉实验预算调整为1200元；在此之前按更正后的1100元执行。"
+        },
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 272,
+        "completion_tokens": 15,
+        "total_tokens": 287,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 144
+      }
+    },
+    {
+      "case": "deleted_quote",
+      "arm": "M2",
+      "answer_correct": true,
+      "eligibility_pass": true,
+      "success": true,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "future",
+          "date": "2026-10-30T00:00:00",
+          "text": "2026年10月30日起赤杉实验预算调整为1200元；在此之前按更正后的1100元执行。"
+        },
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 272,
+        "completion_tokens": 15,
+        "total_tokens": 287,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 144
+      }
+    },
+    {
+      "case": "older_view_after_deletion",
+      "arm": "M0",
+      "answer_correct": false,
+      "eligibility_pass": true,
+      "success": false,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 225,
+        "completion_tokens": 15,
+        "total_tokens": 240,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 225
+      }
+    },
+    {
+      "case": "older_view_after_deletion",
+      "arm": "M1",
+      "answer_correct": false,
+      "eligibility_pass": true,
+      "success": false,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 225,
+        "completion_tokens": 15,
+        "total_tokens": 240,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 225
+      }
+    },
+    {
+      "case": "older_view_after_deletion",
+      "arm": "M2",
+      "answer_correct": false,
+      "eligibility_pass": true,
+      "success": false,
+      "answer": {
+        "answer": "",
+        "abstain": true,
+        "citations": []
+      },
+      "evidence": [
+        {
+          "source_id": "old",
+          "date": "2026-10-01T00:00:00",
+          "text": "2026年10月1日起，赤杉实验的预算记为900元。"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 225,
+        "completion_tokens": 15,
+        "total_tokens": 240,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 225
+      }
+    }
+  ],
+  "limit": "Logical retrieval/dependent-note invalidation, not physical erasure of stored DB/evidence; synthetic controlled facts"
+}

@@ -1,0 +1,179 @@
+{
+  "M0": {
+    "n": 144,
+    "answer_correct": {
+      "num": 101,
+      "den": 144,
+      "value": 0.7013888888888888
+    },
+    "all_conditions_success": {
+      "num": 101,
+      "den": 144,
+      "value": 0.7013888888888888
+    },
+    "false_refusal": {
+      "num": 43,
+      "den": 96,
+      "value": 0.4479166666666667
+    },
+    "false_answer_unanswerable": {
+      "num": 0,
+      "den": 48,
+      "value": 0.0
+    },
+    "reader_input_tokens": 1010340,
+    "query_p95_ms": 1490.052165929228,
+    "by_category": {
+      "deleted": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "extract": {
+        "num": 0,
+        "den": 24,
+        "value": 0.0
+      },
+      "multi": {
+        "num": 6,
+        "den": 24,
+        "value": 0.25
+      },
+      "temporal": {
+        "num": 23,
+        "den": 24,
+        "value": 0.9583333333333334
+      },
+      "unknown": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "update": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      }
+    }
+  },
+  "M1": {
+    "n": 144,
+    "answer_correct": {
+      "num": 144,
+      "den": 144,
+      "value": 1.0
+    },
+    "all_conditions_success": {
+      "num": 144,
+      "den": 144,
+      "value": 1.0
+    },
+    "false_refusal": {
+      "num": 0,
+      "den": 96,
+      "value": 0.0
+    },
+    "false_answer_unanswerable": {
+      "num": 0,
+      "den": 48,
+      "value": 0.0
+    },
+    "reader_input_tokens": 736908,
+    "query_p95_ms": 1575.512332841754,
+    "by_category": {
+      "deleted": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "extract": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "multi": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "temporal": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "unknown": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "update": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      }
+    }
+  },
+  "M2": {
+    "n": 144,
+    "answer_correct": {
+      "num": 144,
+      "den": 144,
+      "value": 1.0
+    },
+    "all_conditions_success": {
+      "num": 144,
+      "den": 144,
+      "value": 1.0
+    },
+    "false_refusal": {
+      "num": 0,
+      "den": 96,
+      "value": 0.0
+    },
+    "false_answer_unanswerable": {
+      "num": 0,
+      "den": 48,
+      "value": 0.0
+    },
+    "reader_input_tokens": 156464,
+    "query_p95_ms": 1531.9932498969138,
+    "by_category": {
+      "deleted": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "extract": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "multi": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "temporal": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "unknown": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      },
+      "update": {
+        "num": 24,
+        "den": 24,
+        "value": 1.0
+      }
+    }
+  },
+  "coverage": {
+    "requested": 432,
+    "recorded": 432,
+    "errors": 0
+  },
+  "scope": "Synthetic history-level split; shared hard eligibility; deterministic answer/citation labels; not real-user adoption."
+}

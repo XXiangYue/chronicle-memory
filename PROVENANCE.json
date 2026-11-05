@@ -1,0 +1,115 @@
+{
+  "original_commit": "f6818662fdf4d845732545c34b63776a3960b694",
+  "packaged_on": "2026-11-05",
+  "project": "Chronicle",
+  "namespace": "chronicle",
+  "files": [
+    {
+      "source": "src/outcomes/__init__.py",
+      "source_sha256": "28ba10bcc4c88dcd5b990f406b750d280561e022c9aade88ad67e40c94dfdd95",
+      "destination": "src/chronicle/__init__.py",
+      "published_sha256": "28ba10bcc4c88dcd5b990f406b750d280561e022c9aade88ad67e40c94dfdd95"
+    },
+    {
+      "source": "src/outcomes/common.py",
+      "source_sha256": "1a83586a32e6b27d01bb12dd58e99a162c2009f01c90fb6308822356beb68165",
+      "destination": "src/chronicle/common.py",
+      "published_sha256": "1a83586a32e6b27d01bb12dd58e99a162c2009f01c90fb6308822356beb68165"
+    },
+    {
+      "source": "src/outcomes/model.py",
+      "source_sha256": "82ec7a0901449e200059529fff7a284363c52c94ba5462d75ff9ab139e4162cf",
+      "destination": "src/chronicle/model.py",
+      "published_sha256": "82ec7a0901449e200059529fff7a284363c52c94ba5462d75ff9ab139e4162cf"
+    },
+    {
+      "source": "src/outcomes/memory.py",
+      "source_sha256": "6b8c35e8cbdb4bc2173f5807ef7424cf0e29ec4aaf754d58757ada2ab1f0ecb0",
+      "destination": "src/chronicle/memory.py",
+      "published_sha256": "6b8c35e8cbdb4bc2173f5807ef7424cf0e29ec4aaf754d58757ada2ab1f0ecb0"
+    },
+    {
+      "source": "src/outcomes/memory_data.py",
+      "source_sha256": "b6c445188265e770220940abc4ad08ebebb9e0478c9d46b02203ce2e741681a4",
+      "destination": "src/chronicle/memory_data.py",
+      "published_sha256": "b6c445188265e770220940abc4ad08ebebb9e0478c9d46b02203ce2e741681a4"
+    },
+    {
+      "source": "src/outcomes/memory_eval.py",
+      "source_sha256": "1aa8d1f179973ceaccb3445a1b25f1ffc844390a060dc29ff7193ef4be86eb38",
+      "destination": "src/chronicle/memory_eval.py",
+      "published_sha256": "1aa8d1f179973ceaccb3445a1b25f1ffc844390a060dc29ff7193ef4be86eb38"
+    },
+    {
+      "source": "src/outcomes/public_memory_eval.py",
+      "source_sha256": "f185e51e2b030f600241ec62c1bb4a68b9a1353f344e2fe6fa8ea78bb20d5559",
+      "destination": "src/chronicle/public_memory_eval.py",
+      "published_sha256": "f185e51e2b030f600241ec62c1bb4a68b9a1353f344e2fe6fa8ea78bb20d5559"
+    },
+    {
+      "source": "src/outcomes/memory_control.py",
+      "source_sha256": "0af89b88ba3a9090a1358d048738a3d062672215f9f7583259cc0f81cc7b3159",
+      "destination": "src/chronicle/memory_control.py",
+      "published_sha256": "f9f9f764a2c5af01e46cf7747964d6b06698ebde3aa7a98fe7984f7214e0c896"
+    },
+    {
+      "source": "src/outcomes/memory_faults.py",
+      "source_sha256": "8aa58508015211ad9357cb5485e82e7cff2fef4a5fb9e87bd553bab2dca1d409",
+      "destination": "src/chronicle/memory_faults.py",
+      "published_sha256": "a63ef7f11f714d860870e73af8fc8e20b41f90105d7928b2cc2992bfd61fa980"
+    },
+    {
+      "source": "src/outcomes/memory_fault_worker.py",
+      "source_sha256": "f2740abacd7a45ce686352ebd5795d4f75a6ec989e7af26ef3f055a2e4eb9e07",
+      "destination": "src/chronicle/memory_fault_worker.py",
+      "published_sha256": "f2740abacd7a45ce686352ebd5795d4f75a6ec989e7af26ef3f055a2e4eb9e07"
+    },
+    {
+      "source": "src/outcomes/memory_witnesses.py",
+      "source_sha256": "c98f0d16e52dff4fd818ea4aa7d406cf8756b60ac4cb946cebbc390872ab22a6",
+      "destination": "src/chronicle/memory_witnesses.py",
+      "published_sha256": "31ddba4c32287afb464e7bdac81fa5444762009f51fcab1c39547d418a34dcf2"
+    },
+    {
+      "source": "src/outcomes/judge_calibration.py",
+      "source_sha256": "d29347a6ca68e3a5ec6d4f77f4c5031f01d7c32e3206bd0009196aa73d47c1a4",
+      "destination": "src/chronicle/judge_calibration.py",
+      "published_sha256": "d29347a6ca68e3a5ec6d4f77f4c5031f01d7c32e3206bd0009196aa73d47c1a4"
+    },
+    {
+      "source": "upstream/longmemeval_evaluate_qa.py",
+      "source_sha256": "fd5795d42fd70a109c3a93deaa4af0aeb381fea6ff90b7023d47ab8b885dec77",
+      "destination": "upstream/longmemeval_evaluate_qa.py",
+      "published_sha256": "fd5795d42fd70a109c3a93deaa4af0aeb381fea6ff90b7023d47ab8b885dec77"
+    },
+    {
+      "source": "upstream/LICENSE.longmemeval",
+      "source_sha256": "70ffd87a6df47c75c06bc5a8fa7a477aecb8c0cca9b4ca3dbaacb0f3c6d1f16b",
+      "destination": "upstream/LICENSE.longmemeval",
+      "published_sha256": "70ffd87a6df47c75c06bc5a8fa7a477aecb8c0cca9b4ca3dbaacb0f3c6d1f16b"
+    }
+  ],
+  "changes": [
+    "Mechanical Python namespace replacement outcomes -> chronicle",
+    "Project-specific CLI and minimal dependencies",
+    "Selected upstream assets and licenses",
+    "Numeric/state historical evidence export with normalized local paths",
+    "New installation, reproduction, scope and regression CI documentation"
+  ],
+  "original_measurement_scope": "New personal engineering, not historical employer deployment. No fresh model experiment performed by this packaging script.",
+  "standalone_source_sha256": {
+    "src/chronicle/__init__.py": "28ba10bcc4c88dcd5b990f406b750d280561e022c9aade88ad67e40c94dfdd95",
+    "src/chronicle/cli.py": "265e60fdd8ee6719e23fa41107c3e6cdddc9bbe22206bd6de3751cd6912fa494",
+    "src/chronicle/common.py": "1a83586a32e6b27d01bb12dd58e99a162c2009f01c90fb6308822356beb68165",
+    "src/chronicle/judge_calibration.py": "d29347a6ca68e3a5ec6d4f77f4c5031f01d7c32e3206bd0009196aa73d47c1a4",
+    "src/chronicle/memory.py": "6b8c35e8cbdb4bc2173f5807ef7424cf0e29ec4aaf754d58757ada2ab1f0ecb0",
+    "src/chronicle/memory_control.py": "f9f9f764a2c5af01e46cf7747964d6b06698ebde3aa7a98fe7984f7214e0c896",
+    "src/chronicle/memory_data.py": "b6c445188265e770220940abc4ad08ebebb9e0478c9d46b02203ce2e741681a4",
+    "src/chronicle/memory_eval.py": "1aa8d1f179973ceaccb3445a1b25f1ffc844390a060dc29ff7193ef4be86eb38",
+    "src/chronicle/memory_fault_worker.py": "f2740abacd7a45ce686352ebd5795d4f75a6ec989e7af26ef3f055a2e4eb9e07",
+    "src/chronicle/memory_faults.py": "a63ef7f11f714d860870e73af8fc8e20b41f90105d7928b2cc2992bfd61fa980",
+    "src/chronicle/memory_witnesses.py": "31ddba4c32287afb464e7bdac81fa5444762009f51fcab1c39547d418a34dcf2",
+    "src/chronicle/model.py": "82ec7a0901449e200059529fff7a284363c52c94ba5462d75ff9ab139e4162cf",
+    "src/chronicle/public_memory_eval.py": "f185e51e2b030f600241ec62c1bb4a68b9a1353f344e2fe6fa8ea78bb20d5559"
+  }
+}

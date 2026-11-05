@@ -1,0 +1,78 @@
+{
+  "project": "P2",
+  "status": "planned_not_implemented_or_measured",
+  "data": {
+    "custom_histories": 20,
+    "custom_questions_per_history": 12,
+    "custom_dev_histories": 8,
+    "custom_test_histories": 12,
+    "dev_questions": 96,
+    "test_questions": 144,
+    "categories": [
+      "信息提取",
+      "知识更新",
+      "时间推理",
+      "跨会话组合",
+      "不可答/前提错误",
+      "删除与失效"
+    ],
+    "origin": "助手设计的虚构工作会话，包含相关干扰与显式更正；每类每个test历史2题，共24题/类。不是人工用户研究。",
+    "public": "LongMemEval S cleaned，目标完整500题；预定30题只作无答案评分的资源探针。V2仅列后续扩展。",
+    "split": "按完整人物/工作空间会话划分，问题改写不得跨dev/test。公开集只对已冻结配置评分，不用官方gold调参。"
+  },
+  "evaluation": {
+    "arms": [
+      {
+        "id": "M0",
+        "name": "最近会话上下文",
+        "change": "最近原始信息按同一上限截断；无gold选择。"
+      },
+      {
+        "id": "M1",
+        "name": "普通RAG",
+        "change": "同一语言编码器/分块/候选池，无事实修订选择。"
+      },
+      {
+        "id": "M2",
+        "name": "时变记忆",
+        "change": "增加来源、时间/修订和预算内证据组织；模型及上下限不变。"
+      }
+    ],
+    "custom_main_trials": 432,
+    "public_target_questions": 500,
+    "public_main_trials_if_full": 1500,
+    "primary": "全部144道中文留出QA正确率；公开500题结果单列，采用官方评分入口并记录实际judge。",
+    "secondary": [
+      "知识更新/时间/拒答等每类24题的成功",
+      "答案错误中的旧事实/未来泄漏",
+      "证据Recall@5（只作诊断）",
+      "实际输入token、query P95、建库与查询成本分开"
+    ],
+    "scoring": "中文标量/集合题程序判；开放表述使用固定异族模型judge并抽查轨迹，未获专家标签时不称人工一致。公开judge变更必须说明，不强行等同作者榜单。",
+    "fairness": "主证据上限8,192 token、reader总输入上限10,000（含提示与问题），M0/M1/M2相同；另有4,096证据预算消融可选。gold与has_answer等不入模型。",
+    "analysis": "按历史聚类而非把144题当独立用户；报告题型和错误样例。公开集与自建集不混成一个百分比。"
+  },
+  "targets": {
+    "status": "建议工程/质量目标，正式test前封存；数值不是行业门槛或已测效果。",
+    "engineering": [
+      "每项回答能追溯到允许的来源；禁止未来与已删除内容进入reader输入。",
+      "按来源/版本/时间的回归必须完整通过。"
+    ],
+    "quality": [
+      "建议中文144题最终正确至少116/144；知识更新和时间题各至少18/24。",
+      "期望相对普通RAG最终正确率增加至少8个百分点，同时不可答题误答不增加；若未实现如实保留。",
+      "仅压缩成功时，只在质量守住的预声明条件下写token减少；不能用检索命中替代QA。"
+    ]
+  },
+  "budget": {
+    "reader_input_tokens_per_query_cap": 10000,
+    "evidence_tokens_cap": 8192,
+    "reader_output_tokens_per_query_cap": 768,
+    "local_worker_concurrency": 1,
+    "ingestion_input_tokens_total_cap": 25000000,
+    "ingestion_output_tokens_total_cap": 2000000,
+    "pilot_usd_cap": 3,
+    "full_usd_cap": 20,
+    "notes": "公开500题按实例流式建库/释放，索引按hash缓存，不同时驻留500份；超预算保留未运行数量，不能挑结果好的子集。抽取费用/时间也计入系统成本。"
+  }
+}

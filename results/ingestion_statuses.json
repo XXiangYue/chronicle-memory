@@ -1,0 +1,3502 @@
+[
+  {
+    "record": "00a45b9dbd5467bd617394e2591ed678fbf88234201174cc32a16fc68be2296f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "5207da51d6e48f5afd0fb8a29cda5a1222cf69b08bbf9b229181d9db8abc583a"
+  },
+  {
+    "record": "022af7338b9e935bb9573ac9421fb0b8bc84a7880d183a8c6ea4fe175427fda9.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "025f91160b033e3649054674a57531410efd1c74b1712f48c8f8afe1ffde19fb.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "038108636df65274744f133b331a94cfed6c550ead4868e567ac1d968a6143ed.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d4b2b0857414f6204bf58ee082ea92d797d632d1f8e12c3633f3cc80d5c47f16"
+  },
+  {
+    "record": "03d6d90ce8e4067e90a77f7eadaa5b8b27b9061522f5c20297380f9b4e608438.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "04997d57bcb1c068790e568bcf3120c538e66b41fab7ce793e3237c9447676c9.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "04a1c933d72171aa59769e080e5616888992a133d93227eab403f4382a658f6f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "06fc7608b723031331bb8187ca53b2fd3e016e9be98c6aa5301ea5091711ce3e"
+  },
+  {
+    "record": "04ba8517365643567a0e3751ca140a571757e8e9fa68026d6ea532d2b8211147.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "77dad2c6bde2ba547781db04fdb49586ef9d9b713124003f6e2b4658c883bd95"
+  },
+  {
+    "record": "054a10767e9ff12d5faaff712e87a62d552b125cc0bfe081d52f098c58ebb93f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "054edf4aa83a700fd96664414ff8a201c5148e41c8d08d9f6deac2bdc29f6737.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "05a3b8f3180a9d664a4531f273dac98a7896c049fe747ef6924c070adc079ecf.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "05b3bba0c5bd00008570be42a1fcad5401e8e6ceff2aa7d642d4696a05529a1e.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "fcbb77341cfaf7d915d6e076f469b4fbe0e8d6b7c21d426d22ff998bed833914"
+  },
+  {
+    "record": "0681cd6cb3cf58996a40bdef4645def8019084231f1632a5618d7eb6fa21cd0f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "06c91fe70a8d2a9f247ecff15e9c9abffdf30b3468d946a83f90680eecd5b86c.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "06f575d85e56212d85b442c65598fffc75f18dbc8629067ce21f437f788e5361.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "806f9748da9f612490d494cdd266fea715f8183f2217d58c618943ddcba970c2"
+  },
+  {
+    "record": "06f92c0e05760a9e816f9a07773b2a225936b2bcbfb370af396fa5642b16ab10.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "072193ebb8116c514dae395a4df37228b8a84aaf5f26a548146bf19a7efe1b45.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d0562795c53ab5ec85dbcd04a44e2933e32b2ac9119cf9d482d0d526c218c837"
+  },
+  {
+    "record": "0736379b579914ef6a0c556933d732104a2f705e6f805d20a56506d92bc83bd9.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "0774b05d7b3a46122c00a08046242eba133221e6bf0b2bf043e2039e316b5d4c.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "0794d089eda8cad31194b0c5d97ad54d98c2ee3708557ab2ddd03dce28f0aefb.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "0799e84a6cf69cf86e8b01186e5fcf8ba6661f83eb5255d23a6f478db07508ae.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "07a23607fa4bfe515b49a0abbfc6c695624d750f09f927cdf48cc866901ca5f8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "0882458753bc08b6aaa3dac1d0e62e98104705fda196c97a1d804944e803ab2f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "cf57a524cbb2b3851cae21dbd0d177b13336d93f464a9d4ad37719d5ddf02baf"
+  },
+  {
+    "record": "0919b89d4484fe2fcc721e56a04f05b9a87be6291c8bb54890446ba533221c69.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "8e92d8abf37b72eb676f9e4d79d3ec93929aa2740d9f6ff661653608f43399ba"
+  },
+  {
+    "record": "093c51267b23a17d7de22379aef228c4b6c48b36cd4622604935e1f526e8f2e3.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "8001dd354077a45364437a4827901d8aef09e02217316fa6b7a42f600cab71fa"
+  },
+  {
+    "record": "0994ddb27b0472795348238fc82c27a55b8e4ca9b3b60cfae518d533204d58ff.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "09f66e0ab547a03d0c9bff42b56a56230d341e157226ae3da1843d34b1e64756.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "0a0b96f74a1e3a38dcefab2822e63fadd7568f25a3d00b727efa7de57ab18663.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "0a6cbf0c79803b021035dee257c000fa0eef9f1470bac058c938cf46132429cc.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "6cb71bdb1dea06755b28d5ff6657edc04c44102264ed4d136b4f65dee029645a"
+  },
+  {
+    "record": "0acf2cf20da91c610a7c939812e8ce60b3de9758a59c0daad459d728c17dfbd0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "0b1c384e20ac2c3196bb185f27e07bf341923927f3fea7d6120df1c2e3ea89f0.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "1d643d2128c1d4d6cabb0b61d0cd14abb935754d3c892434fe7ecf80d993e500"
+  },
+  {
+    "record": "0c32d4e720421ce3f4dee1f4d4db4bd2f1fa9f2c217fc8f6034b8ac0bfb9416c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "4e29bc8836c0506b332dc7cc91c68b9bbd4d5a84c7f556f08de880aa7343d1a9"
+  },
+  {
+    "record": "0cf39d59e7c30430c5a85b9efbb568eaff6db8d8e808cbea10332199c400d360.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "0db3a16455fa7090716e157b2be052018219e2795de9c61b8314a481264dc3e2.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "86828733e098aa2455d800216e1385618483d61c6ceaf573d2efb1ca92211cb3"
+  },
+  {
+    "record": "0e139a591bf6ffc2afef1fb68bb6f28d7840819e5f8beba6f37af536782e9eeb.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "600f77981906f0c8b4ca4af2d21069048f48c61c462fbd4f8f6a5826f7063db0"
+  },
+  {
+    "record": "0e6e65b60765fa6fcdb965fc3d281c4690974f93233f79fdfbc2cd0001e44623.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "0ebf3d9b62a2122ac6d2e23f8128a3120b813203e33f569cca4e71635a941b0d.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "045543b58f8154ae3b325cc8044a6c65e05a47d48e2fdd8f194e0869dccff709"
+  },
+  {
+    "record": "0f28214ebe18a37696c51cf3f098a518a3487aec05e948784244712a87798fc5.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "0f59a48faaa15b0ec2ce58f34d6a58212dfdc807dec82026596e2dbfdc9e1a7e.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "aac1e9fe0f56cefa7371a0cbcffc312383380f8fe75968d397021c97f8c31b60"
+  },
+  {
+    "record": "1155b708da69185ae2ecf6fd8ba1b4fcff3cc5a2d1e906998838b28b4814b27a.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "11879ed09bcfdffb1aae21d21f0b4e2d09e73257ac0648c68a0c08858a25fe94.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "bf83ce8550a1991aecb421cd932f4f4c47c48fe9e03acaa8442619cdcca152f6"
+  },
+  {
+    "record": "11b3a7bba47afb348f56490ea14fcbb53fa4b8fc7ea1b030761c075b9a362980.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "11b3fb6c33ce2ee2dd6224fbec74ac44b7e4d3a07f6dcbf81b57383966d1ed80.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "7dd9569fef7e15f925b812f46ba5252b7718bf96c4073ee6c35dcd4384b2f91d"
+  },
+  {
+    "record": "12de9e7fa109d23c107592857c4601fc9fb396fc2d205bd9030a018052cb0e0a.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "12f9cbdbdb7e1e314b5299e41744735c5dec260aeb1420debc68a120ab76fdae.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "1325eec43b0566197f6087bfafe0545082a16b2c543a2884ef04466d8e65a49f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "8e089d069100b36c20d141f0d9d96368352bfae5790079d89bd82a56a4431ed7"
+  },
+  {
+    "record": "134c1fda31280f4a721db2bd109b01fdc6a17af1663c9307b4a9e2ae0903e6d7.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "5864e767f3dbf5ce4f207c7a4082d7047eaf7703376d84ee33e517d53c1c2fae"
+  },
+  {
+    "record": "138afd5dd06d86ae8e7febdc28777854c4f1450646039ddca08efa0cff778e60.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "1fd998cb7c13dad6114891a528c70750008b0393c81cc6f1e92a37119685dfed"
+  },
+  {
+    "record": "1468dc7b8ebb8da528bd65f4fe61d3cd6b83be4e5d7e39b0060b9f7ec4859adc.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "102f0f8016a1348b6cf690a189b4f9a55044396a6cca9c12c735fe929eb452cc"
+  },
+  {
+    "record": "146b00899c1ea66b87b909648cb48194f56e86fbff7f13dd152c9d81b688b793.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "784950d18d886966a42e6f9af9d74fa83ae1c014077fe8cb77e35560cc5b815c"
+  },
+  {
+    "record": "147a2c5008e60e69caec930bb81c6df7779002d6474ab5fb063261fd3aa2494f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "62342a7edb604aae811f8b1441e1b2b39d0a891c35a05766e307ac8cc747f8f0"
+  },
+  {
+    "record": "14ac7911686f27d6cd23b059b2832c2eb4e7b2f578a0d715acab2ab9e56eb2ad.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "f4749af3922627b8c2cec66defb1f291848389bc26928d5f503f6b134aace36f"
+  },
+  {
+    "record": "160e70263ea11eed1d637a1cb7c9a315577085e97478ca64b4d636d34b2fa5dd.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d3e8313928f313e810fc839faa723a4691a722d91d3256f932abbaae7891085e"
+  },
+  {
+    "record": "1700cd8ab747c86a4d136ae7d7aaf84212c85880afccc5dbca3da1b66e525228.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "baf612ec6b4da38ffd635c4d73cfd2d1b20c0d110d1c2c7194bc1738bbaffbdc"
+  },
+  {
+    "record": "17e3106f2e08e9689ab401959304aba068e47be04277216e96833bcec845e361.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "17ef0c47920c3199507b9d8437a687027f53130749095b8a59de68f86308940d.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "c9803e11f8d6f35cbac47a8dc956717c047f048bb51dfaed3988dbf00be45680"
+  },
+  {
+    "record": "17f2ef4c9d971825dd779caa283d25e2625c5d87b6f13d3aab0807e004cc08c0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "181d59b1a6812df21d006f04087b2b2a5a81e9fe91572acf6a0b05d1a845a10c.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "199eb5f695b6925671ff8ff112b6782c93c84dcb438ee84ef43ff4882351bd39.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "a71715c5f658101b17d49a2536f79863b8c1a48ccb35d239e2a3779f10e73666"
+  },
+  {
+    "record": "1ad3b04ba0474308a0987644c54cfb7af1e5657457e52a84d48a9f67cbf2892c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "17f21443865cf3a7746ca6c28263a43aa6f7ebc9c41e930ef70375526490b657"
+  },
+  {
+    "record": "1afd12164269bfb1944f0e0e4e154b71c8082f9d2b960b17b6041fa99512b781.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "1b63aee11dbee4ecaab8f84691ab522c136370666ce202812b8705c7bdfc73a8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "1bb0574a44208619627a61f6daac7123432ef04f88be091f9efaee08b81151a2.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "1cab847a10b60e11bd8ed34e5919adbcbf548ef0d7f90e2816188b28bbf6cb63.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "428ad8dc3bf7afba1feff3dfcfc4e77d82548da6b46a99311622e232aff31399"
+  },
+  {
+    "record": "1cc0ab844ce27b4f857f0a915df76af27db6897e8ec9bbe557c005086648692a.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "1cff79af9f06b3b980bae2a0482a221e8869a41dff7d73ad3f01ee75d5f6ab7f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "3741ae09d069a6376ba54c8188ad0f2aec91a45ab25832bde2e77c75e038e42c"
+  },
+  {
+    "record": "1d032bed67c2f5dad7ebaa205ef7822747d5aea283175a2ebdcf8968b99ab441.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "1d2662a1028e3c967f7cb79269e6208537682191647fb59b7465ce8388a50792.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "6da2c784ac8e2dfac290aa90950c06f03d871fb651fa5594e6da1cccf52944c4"
+  },
+  {
+    "record": "1d324c75c5b7ec7a27816401c711a770a411ba44d589d6a3cc8282ace1d52349.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "1d3fbc326ceb6ec2a48940e31617f1e32e2af6435fbc99e26503da081426eeff.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "1de566f4edb61c2a6c4d6bd0bce6d27e76cef6de03904b2e6963898325fac1fb.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "1e8647df7e1146f3b1cce64a53acc8a6ce744654d3222bbeca485dea281d0d2a.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "6c998d3efaa35f6bbdc54d0a93b35b735806c38b57a8cc3148757b301dd8aff5"
+  },
+  {
+    "record": "1e95d0ab6d5776b53b31d09cd1302a6121cdd238129ef7701930fcf23e724324.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "1ea284dbe026684677e1f2ab509ea66309624b38ac9ccc1ca642d1d57eb20a53.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "3b90d4a1c3dc82e99248e2fd230bc6830479a835f57fc1bde882c29a3cc0e540"
+  },
+  {
+    "record": "2035896777e9c63c727ee69e40be1e60d8ce27362ef3279bf5016f6d77e6234c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "8b32cf9d78f7207b8097cb9cfa716d809c5d1e2e83b1a9a6efc3327fb1f40655"
+  },
+  {
+    "record": "2123d7125932787985aae4b6efe164d0f168fbdc0624489b2d8fea65a647b5f7.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "2160df3ea84098e2fa8ed072312fe0636923d073e8d1271af400b1c708a1c8c9.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "216c614fc7f6a42c479c998829f67b2535cabd5f40234d9da05f44d2e14d41dc.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "2219711ff9e0d26ccaa4a88c3519cf64643fccffa40fc8ebd0f641907845eaf3.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "22597eb60f924d9051fc58f8d896001050fd3d32630abf474681c85106e381f1.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "dc5286ce8c4d22f35e2200c8cefbf16227fb39e92df8dbddd88344291f67c69d"
+  },
+  {
+    "record": "233f1ac502ce591d4a59bd5b299f6cfc3821991f8a152909e7174930ec0d173f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "23ac8372da5bbbdecbd52ed6a9835ce32ace3c382cb14a3fa8d6839de1d3f1ad.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "248103ad8bade58b4ba905b67210bb526b591bf394d90276aa586747e7c8bcca.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "24a40ef233954ff6c4d4eb88873edf9caeb8963c7d0b85c1eaab81ade75d3c9f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "e003508af7a9ab81967be375e1c50aae6a864004673f0e970d0a4cdd1e1ad264"
+  },
+  {
+    "record": "24f51297c7c4ebb6a3a47e32725e27577d9785e64a87016176969a098baf05e0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "256f8d519bb32452f3f878278e54b9141db3ab0253275ecd1be15bd7d2dca7e2.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "258218cf13b713a3cd294a39102bc1f6595a73bf209dbe683b51accf48c86508.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "7044519bedaa9fb32ed0362bfed7bb875775533eecd71140830999e5b0db8ee7"
+  },
+  {
+    "record": "25b577c5057a5d27e9274b2e11516df9d15421bbc4c57570a7062b4ab415af70.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "da5037b7ad80082c79f48a779a39718dc2127d4529bbabd9460170e564fc7767"
+  },
+  {
+    "record": "25f778b9cdc8a209d75a8d8cc372bc3cc3b70443f751a74b6e11accc8344142b.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "bba336002f87bee4536a5ab04580794a5764262d264c3a30fdefd23dda96c517"
+  },
+  {
+    "record": "260522b059fd52455d782db7a0939f16e819b54e8bba70949c573be0b93f0474.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "199a24f62d94a2f5d0f980b9ac9ffd992fe2a14ecfdd7d160afe70da06df5b3c"
+  },
+  {
+    "record": "273c902c14c726a1e231b045d4c3279846342545379c8c712a7dc251b75b57b5.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "82b44d98b1a9df51a4ba4c6e229d1e4edda3173dd8a9d386761f30757ea3cc0b"
+  },
+  {
+    "record": "2765bca73d7322fc351f4a10c45a657791febd6da86013bfc0c5e8ec342c0b04.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "a01dcced0caf789339e520248c5c75cc2d9d573e4a83caedeb9d7e1f4c6f6b46"
+  },
+  {
+    "record": "27bbec704356089f54490ac95b3f396792affe2e09040b40f9acac5a546091f8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "27db604044b8b2cbf704c627d87b5af2cdf3a6c418384326f38575d7345a103e.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "7712eb5bb71ee32bf8332cf1803ae1f0b973070b979becd929106580bbac7e7d"
+  },
+  {
+    "record": "286f24537288bcfe7614f2fbcedac36c5517d1c3f0c84d021bfc9977ad0102fc.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "b519840ab4ad30dd79940dbdc55e62eb90f81a5f914a6e50ded32df904a609b6"
+  },
+  {
+    "record": "289a51a050dff9219f6ee665ddf6c3b8492c2b7cd47f7353a42eebde0ce36f9c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "5ecaf011f660459349b27b39dbcd2e33d73e4c7b8f0e4c8e99849b1a27a5d176"
+  },
+  {
+    "record": "28c20baa4174bdb59d9745dbb12b3cfa72825accd64b1643ee3ad94ec5f1a83a.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "28cf30a932c00def97b0e7c051df0abdaee545c3fbc2cc3f249f3007b8d5f691.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "28e6b0cdda30ce8411f9f0e9f72177b141658b827e727771eb798f5061458bad.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "f2a8732d6cb47012995a31be55917c3b48e0394b86d49ba54f2af0f8d6b43f5b"
+  },
+  {
+    "record": "2922aea838b932150be667d01ad9d417d2d59ad325bbd7fc5ea0276f1c27971e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "29c77a5480fc70706d5e92c7ded0b25bdae290b17c2558bcd4751a9e94107432.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "29e0ac5646d48ffec52eb6b3891e35f331341a475ddbaa6a82f91afb001ee684.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "cfd278bfe63e25b4657fbae53e1a60bce4c20d6590554bf4723f5fe8806d728e"
+  },
+  {
+    "record": "2a4c85793a18d79009aa50e43df2b158f74d101cf895eb109ddb3043dfa4f2cb.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "4e32d3b93b806904656e0b02d854fbd50bcaf9c912875eb4efcfc5a62ddfd415"
+  },
+  {
+    "record": "2bef610a91761051081cf6ab487c2c4c5897836138c1043bfa3c5156b73f8c7f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "bfa92d051e872816835292e1ed12c7ffe841e338021f6711ebc05ed19982dc47"
+  },
+  {
+    "record": "2c3e1b2707e85d61be2ef95638c74de1ac151f27999e6e7a062bac2a4f5c49ff.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "41dc7cb95050755975e824bd5eea23834c5e0ca14a61acfc5a7e524365268916"
+  },
+  {
+    "record": "2c9a07e29ac1174188ae5e362f1bce1d48d145d71d271defcf1201e8605a1384.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "2cb7112fbf1ab1d2975082fa6026c64cae1712e8ba443d909f871097a2c0a5b8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "2d5a34002d21c8289e03e84487dd505da24583a2f9ad78dbc84e72936aaaf61b.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "2d7aa2d4e802b15a010805cc7cd4608df2a5c9c71a7894c840e4b6109e7dd13e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "2db9d7b7567d0be742bedf345fa48d47ac76ae45a1d3f8b1926a4e6d4c7731e4.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "73ce23d1f2854150b231979ceeecb5d044c8329382ea52e0c890ab79d388910c"
+  },
+  {
+    "record": "2dce97a7df53658f9c5fab1917316f9d2231a3883c10f205e23c6f924dc232a6.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "31a93ac54a9379d16efc10902a673cd31ffe4fc76cad022b83cbf78b58e4a0f8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "31b74dd322f6031a22956d04862b00b692dc1b3feb24ac0cbdbba07d86e7ed44.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "3200417dc685dba4cdd3d25466e3e6b8eed20cbc12d9213a5feef93428c77608.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "32711811eca57644e60abfbefa50b3a5215c4c1b083a319c7d23ee4ed6bdb5b6.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "329e0f42396cb7bdabaeb93e2a7777d471e3788830ee6ecf3c7cd2f11e5a6d73.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "3313447f2e0961cba4f898c99dea527a4a7b8284840c8c4e2c8cc1e6c2624bbf.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "333ba0535feb0977d598ef67feb3d831a394548bf93504360ff17fce04bb3d80.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "340a6c95257809b956206a22b87c8ca32ec9389523cd24eef63ca68a80f963e9.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "71b96ce0fa3e60a90232ce0ca95a481ed1639c334a73a29bf1ed2cb5f1f27c28"
+  },
+  {
+    "record": "34579ce4f1822eea451e9364f028fcaf82c5653424c26dd6d59d3d23c443e523.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "35a784ef98d5fc43a22550d0121ffb5e25c5a9197be9cd247eb05b37d000cd8c.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "362ea693e47ff095f18732e41e17044badf6cb6b000a646af9f0e4f8f43b7876.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d179973f51cdf24e869d6d489712df1800e2cf90c86a35532e75ef80d92da66a"
+  },
+  {
+    "record": "36614c855677f6c2b20839ecea395b437edfddfdabe19ba41121fff53555a252.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "367600354da9ac55a7fc6c7eedbb6f0ae3e5cc80f33726739c94f50735604ec8.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "2c7aa33819596e614de298e74586541fe2c61f1b007e9e688788833671f41e15"
+  },
+  {
+    "record": "3692147695847b569dc61d7e82b5d6ec473733cb89609981d753d42e2ab4a99e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "36f910d3c43845b0cc691cef6badd91487dc0f1a1a775a9d1611456784980d30.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "37ab8dd48ed3dbde5b71127fb8ec8bacb50f50ff329a4eb22de73908cc9ed1fc.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "fee8b94f91f174b6c9b3f702f087d8d42972f24ac23bba0ace50ec8436b41844"
+  },
+  {
+    "record": "384c55a6d3f8ade82927a793260effbb76e196e5363e30bad24a8a7b3ea5ac21.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "e7f19b7bd7da74acf95f344f7adf3075806904f7c92127cd3df25a79066e0eb0"
+  },
+  {
+    "record": "38710e93992c5a26bb3424f9ce68f92364fed3a518af68d79870cf71e6a9a554.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "e5adda728f565831f756918c578ff35f7458686faeeee63668e1b7b87bd2463d"
+  },
+  {
+    "record": "3a1c66a3372f23d6ada5b43e0ebee897029689527152ea5964c4d69c9d347129.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "3aa59ba4b3a858eee4603d02e3eb8b9345fc3ab210d56aa3d20749d9b1753f5e.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "a9d431fdf53da543bf7fcdf1e3e783ea1afbcbc558149b6ba5958b30e4b534f1"
+  },
+  {
+    "record": "3c722a20a22fcc63d076fea54ab75addf326436488c7cae4252a660aea5a0fc0.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "24d00d9822d388235f9608a348dfa85015a2740e617acfc5b47f403818350450"
+  },
+  {
+    "record": "3cf748e4226608724249692385621c34dfba55e2d60d48ff02b94a48235d4bfb.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "3d2e1701cba92c17555c8cfe9c4eda3fd5a509b60921eb50e83b9d4818df1838.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "ab719457daebcd64cc2ee10fe8a1f90959b847f51fe5a8bc71943cc30438e8b0"
+  },
+  {
+    "record": "3d8f6dd421c91bdcd40e2a8354457a627662284251589593ef63105be356e55d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "3e22ee6361a1f505dad80472300a9aaf36b54c20dda2fedcc9c8d2b9432a5ce8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "3e9fc0de101ac6e2a8b465f3819b1cd3203a979f9f9cbf5f23e147e2cd52b680.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "3eb820e855dde2221a039899eb590a1e874a262009540466536a6f04893372c0.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "835ccba45977152051e9b263c1f2b9d44a4f6afc04c10cac2ea76a5b2146cefc"
+  },
+  {
+    "record": "3ebc2d6e5691df0961bb55460d5c3f491970c8294933cdfd187956ed9dd3ec5b.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "81b95777cd02d41f508d58060c9455fdc3c4b5aa0c6e19a7001d9c9f61ac9f19"
+  },
+  {
+    "record": "3f734cd4c7c1c9f240774132dc981644385851ea72ddad7d2f5e70189c2da704.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "560d9d3452ee195256f7c043cb85edd46074286b4cff7c5d1363798d5bc5c6dd"
+  },
+  {
+    "record": "3f83afdf2a03b0bf58ac7b7e28fc27523f47327c49bf01460789bdbf75284fbd.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "2125bf858f30d88852099e9147932973b608f0bcdad9899dc462806bd125fa28"
+  },
+  {
+    "record": "40579d5edd3fa3ad71539f1b90d70682884e93b9f7aad306a7ef98f3abca8a90.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "96d95a389974ebafffea2e03e06bc526de1c13d3cdbf217647887bcacf1a9cef"
+  },
+  {
+    "record": "40bd2498d6ef151f7fc110ab75d14ace2b46d2a37738edf155b6274170048167.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "40c6bc42a10d5cc558027b0fdf5d2ce27337607eb285a1f9ecf2ce151fd72cfb.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "c6153b4aeb26ed43cf9753fa9bcb2b89fcf05d1a75f366a5f2842683efe1269f"
+  },
+  {
+    "record": "4139da0e9c8bc15b81719bcf9955e1fabad80658c33b59cd5015b1b03c827d20.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "de0ea7d11d2f5b7613caf04acdc5b04d57b381a9411f9c11f3cad3264d6e7323"
+  },
+  {
+    "record": "424e7ae8e260383a9f3cba67e2987872e729c5d8c0733300fef62a94c63eccd7.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "13dff5879e2b1f229cd1c793104b387aa810c2567b2de7da1c40ae9227ef5723"
+  },
+  {
+    "record": "446f2540655b6d4aa1d162a0c0fcb7c28c5cc2fdffac9f90b59e77aeaf83102f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "ad67f0dd0cf0ce91dff3fb3df4319f661a7a2521e3836ad1379f0798bbfc21e2"
+  },
+  {
+    "record": "44e2501b767ff1ed5de3848a0a948da312bcf4fe2bc34e25e726135c8a7fc3cd.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d4542725e39d3543ebdb7a3adb5f4414093e4fe7dd652a53f458b780b7ba161d"
+  },
+  {
+    "record": "44fe0bd07589ddf4b7b4efa0dba40c7bb65c51ce593ffa903f36695cc6dfb997.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "45184f2fdda49802ec2af50973b42d6410b99b2d8102f94d6bcf06d8744763d0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "458731edbc57edb810d353a96cfcdf11e4b3d997474ffbda1bc2b5d6cef155cb.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "45ae982eb9b0878689f422d536ff0371d3ec85992f7a9f36b523493b433d051a.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "46019286b5ee0cdbee658ee07844ac0220c5715e3520f504481b9228621492e3.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "6444aa1a9c3f1878e02af4fd1ff44a971c0434e866683e646b1801d96877138c"
+  },
+  {
+    "record": "46c4654327a81cfc9a69eb00f04a4393925704985ec5d97ee89b9b563dffdbd6.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "46caab3b5487d7b7140c5fbe37451c422b5db736618f519ec387cea62c80cef0.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "a8def398681087074ea1152cf1c805b3cf696b16b336373130cc6658d72590b6"
+  },
+  {
+    "record": "47148ae609a288b9859956ecde8f129ef5d7bd22a7cdccb6e1aa8664840ff613.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "472e010ba9b063eb99eb775026c0ce84784ee0c24a3295968b55cfa66b49c05b.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "56fa075a291e0298932e1e4aae698c3101806ae8cb713085f4345f6334495c32"
+  },
+  {
+    "record": "48f58bb5be73c07878bad601297e498d0bf71972f0df74fd9731017be3d1606c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "4a334a73bc7adf03c4bff4dbe88b864e3c567472c2b4c256d746ef1fbfc15c0c"
+  },
+  {
+    "record": "49b7a30895023c56dd834718f2392920f02750a60991e37beb2f03e8e9214d36.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "990ca509cc9cf95ca0fb995e48d49995ff4194f571f51660c3eb72d244fad2ef"
+  },
+  {
+    "record": "49ca3f470812c13659188a166e20bc308efaced4282b98a243b052758193b7e9.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "4acef57914a55ea18b8611f3421a46d1a2bfcb1b14d00b3e89758bf829e30fcc.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "4b33349b201ad6c6e8a5dce226f99aedfdee634bfa4ec910d47ace23e28d8c6e.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "1ad6d538d09b1584c0c435d2d143b2b6962741a10c7cdd7e2b87e03a7039fdb2"
+  },
+  {
+    "record": "4b3c57410ab872552416c143da52dbef2dc266535edb99cd183044a9dfcc2938.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "4bcd5a85650f13f4878c29ca59d6f45588520f746dce8c63c4f5a23af803c3c3.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "4bf039633602d1070ba6d12d282cb09226b49ed9ee48caa4b37be76a3b8cc0b5.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "4bf8aa182475e5785fcd71690c3a6c84adda5442024c62f3510068672b9a7732.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "4c911bef3370a0a9f936d73b14278e63dc83f81e68d45f447672e9b5c2469858.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "4e164dd7b6286d3f6201d499907e51588fa04bc9e4a1e449b9a5b9c88a6836e2.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "4ed9c81b6e51623220114bef851d624bc9129c9503163fed215c8015edf795db.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "0d5276a5c7c4ae44211357449e9f6972f749b5f0e4bc71d4645b668f65966c86"
+  },
+  {
+    "record": "4ffccbec04a89d47abc23f36c629bd46aa751413d9aaa285a6c657a407bbc6a8.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "2c901ce66a91e2b62d159702740f9a6fe68fc3b1b6df4722bf41999e23b3ef4c"
+  },
+  {
+    "record": "50294b494b339a02035a498d617761388f5632fa5bd7c2fdde4222eb6e5eb757.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "50c820e6493ee69d8797fc7f7754e62599403d5da0255396038131c1e12c9a1c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "c327ec2b386d8d11bc124e63832390f77799c36510d89b525cd5f9cd0a3eac4e"
+  },
+  {
+    "record": "5143d18ec9058cf0141232519d3b6073b4dbbfb276db953c8a3990b017d7a536.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "68ac2b7402fa4cc6c7ecf12395d6eac14329551f016c473882038c8c01609de8"
+  },
+  {
+    "record": "518ccab6a74466a3d3f1902e930e81380fa154b29bb96efdb7b657f9f4e1f9bb.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "5fde16a745885037a2c05905d04fa3e202226ed12621230bb0fb26c559bae7a9"
+  },
+  {
+    "record": "51a187ef5e43579699bdd0ad5f334e80114ffee809f52071c4d9f93f7b155ea5.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "51d950ab2e312beef79e67e79f1a157f1db50c212748d35f2c2e2e8c85527f1a.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "51ea35779dd4827768735558c18b534a88d59dca2bd24c39e57adc1bca731f8a.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "1c37049fc56cb8645b4f91b7603f7f2b2e2287d17bffa03bb27b705ecc636c76"
+  },
+  {
+    "record": "529fc92876677c1004a5c233120413126a769398f4837e213d9d94f7e6d1fbf8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "52b103c029be4524949a3c7c25d1908070a5acb85df8f971158ac08dba5fee34.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "52b92a720119d1b6c956d5c7e231f7262f186089b9cf429c3a8fc32ac1b82861.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "83f32fe52682b30ecfe4ebb50351365b3666a9d7b1fc6c628b71d3daee4911c6"
+  },
+  {
+    "record": "5346c2a90ed648097a47906833cfda5b385f91b2733315468db5542ebe4bc052.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "53a667658ee847be1df1a01a837a1f5c976a68220bd759e64046050060cd4e8e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "53af924a9010735470835f5724e7bb7726095522831bea4aa4e419960a2f0c18.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "827992cba90b8b5ba74d3751da70c9a625ce65778a2272003e89d91b633be058"
+  },
+  {
+    "record": "54724fe2b37662118978f23b84a0ea8681c3c1d3aa92b21c1df68861df225d35.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "5495f8b22a2dbd23d39ae5feb687a548a1cd35e10ac165c1c5cc007adc942f7e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "552b408d899d365ae56077413d14389b88461de4dbcbb711f7279d4e8facb0a3.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "a575969734b739614c8dbab6f64092512c17acea431036ee7875ccc67cb25540"
+  },
+  {
+    "record": "554147791b52021195d6a0ee5162d45ae5c5cc9969c903b65d58890e61bbca08.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "554c056c7432e6d4fe5f1ff1de1eacf78589bc85a2331321ce70053cb58966d2.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "55d08aba1a09e90464d9a78af61b4742b8d66191f7a518f86be07c18a27abd14.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "db153a8b08eaf3871bcd8fc7b26bcc7cdc495bb7c59d5d9d516af432326ebe35"
+  },
+  {
+    "record": "564cd68a2ba403d1b66c2da64d5a92658cf3a5f5ad50544540fd4f92773e515d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "56be44ee3e175048fb11ff60acdc9e4f990d901995981f4e1221f045f3bb9f6d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "57194851c91a4e57f50ad1154932e3940775c37d807a4efe35ef0a2ec4833ca9.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "df8dc42ad060f93aea6888368461803b5a3515a4f51fdabafb42743f81e8c6de"
+  },
+  {
+    "record": "5767feaaab517e247264821afa92435d3dfed90bede49a58387f87604a2cb7cb.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "57a38e4c65fb2b6db3cdb9c62aee7982ff1fdb0b375e67713e13f461b56fcc53.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "57f5f2735a6bb45bfccf7f27a5808a8ac07bac3dd13d4a0ca3a52ec784a1e492.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "6e97d99aa3f849e146cac31767b34975d0a12ddc02653ad4c32d7735c52e1697"
+  },
+  {
+    "record": "5801ab26fe720ce63ac9f7bbeba8a4b1fdda8103095576eed49546eb14e6d9f6.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "5919fe918f66f75208def021f474b2443b42f237f975fa35528034032b66bc2c.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "59ab14f29f030896bafef11ee5828daf28713b2b67a7651950cbe5f18655c7e0.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "cfbe34c9a040eb60805eca6618df7824f12040689ea2f2c083c5dde4102ab010"
+  },
+  {
+    "record": "5a99f4187675647083d1be7b16ce3efc94931f3935524980c87207b9cd0686b0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "5ac744dfbfcb95e5b047743deaa0eb569a02c5c39c83b0d7150c6c6215c536df.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d15725ed79821a3dddef891b54c08994aa1f86beadce41a5f468a4fb610ba8ad"
+  },
+  {
+    "record": "5bd71f17688e623ca16f06f1278f93d5132273ae5adf77890807db433e03b5b5.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "04b53e7c207640a220ea6c14cc63cdafba0464093a2503268593b4996e58b9ae"
+  },
+  {
+    "record": "5bf5c6a756d573e2bdcdaa3bd84f117d23927e2ef240c4d814f7ee06ed81434a.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "5c1ee3ffbdd225b2729d56893413d3dd643e692e06010240e1f5f5de6f03fc0b.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "8ab667d5fe29fb386c149a3a9cea45b07f75158433353721d1332222204bc211"
+  },
+  {
+    "record": "5e0cb002e2545f4ad9319195d0335cc1f8dbdf62609b5202d37da1c28e7c57a8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "5e5b62bab683423122becc898be1dd937d9652dfeb4d21f559358f8f692e0b7d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "5f087ed6d787da642d8c7587fcdd0b5e54df3a26cf5f00ede48140b90766bb4e.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "cc24b1cd7b60e87e3cfba75466773e029be07b72c80e39aaf4955481eac4a22a"
+  },
+  {
+    "record": "60468312f455107d2a86ab25a4563287b389c84a59843a33dde6b3c69b46360c.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "61e8a2585bba387e8c972880dba725efe207eaf1a160e796528ecf3b25c895bf.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "622fa996619e34b4148e2223b2d2270b9db48475a3570275b8cb47ea199118c4.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "62dfb97f0a71c49c98ec2ad5d1eb22fe4bee30c02c5bade4aad0bb1b22b663db.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "637812ef76025dfb390bf2ad9dcc663ea8f2e8fe03e66c4cdbaf0e567198ec3c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "20dedecdb612cc91d038ed50248d75bf133fc3d39980db9febe55398808ad2d4"
+  },
+  {
+    "record": "6471468f83809f213b27716d5eb7b92e3954cea24619ed787a571434b9bdbab0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "649353a8eaa0be70a8463aa6bc85354e50badc669e3a078a2f2956a3470303e1.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "9cfd328c221a4a67fdd42c92a52e58a2069d80e25393a4abd69a5c0fb2d354a2"
+  },
+  {
+    "record": "656f96df7e0e531a278b14136bd042da4741e4a0b348ed3251748a60e83ec3d6.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "5ca0585b3a07a5dfd6c37757ee81113177f209968bb745905cadf05b416738d7"
+  },
+  {
+    "record": "65aa0be42bc0dfbce3dfee46865d20f0a98b920e9fdeb4c398548e57bd8df657.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "65fc0a72b702a6d59706e990567853f08f3fa96e643fc1c61a36c39dd07b3ec2.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "a3b4ecd5a910b350f8133dcf87ca4b7ebb287b86200ff718e3ec43e92c5b5961"
+  },
+  {
+    "record": "673ce4a9641e3835771a0bbb74f2179b6b09c4fffd0df9d96836ced1961825bc.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "67418b4497ec188e34212d94a137b652274e6252a37acf64ba93232536221b66.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "67510560ae9a52ec16362b015093bfd1ca5ac86dac1db562b9c001b1e8922746.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "678cf5763231c760dc98f7e15064823351be2c4a7f32fbae7b1bf8c18ef63a25.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "679b80a4ddb5dee0da1f88d7f0514a1172ea1713e5a9fc8eb74418ace377b51b.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "6824010e6f947eb443d93f43d0d90e9c1fec08903f199bcca10cdc242470034e.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "538228da602e8d58b290af59640a889018f7e4cca30ee11e3e46cfd258794de2"
+  },
+  {
+    "record": "68cb7e65b6c45dfc0fae5059ba69e13131c8cf80b565ed33003c2965bb28dd63.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "98b4bef211b2a7c77165ec311c2c22290497bb53122937cd51659171711216e0"
+  },
+  {
+    "record": "68d1de863abee71d9c024b7db554c0a86ef00d54382c4db6ca8da25e7d92c62f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "6915e473b0a561c6afdcb84a0d12af62d64ca77561ac1cdd9ba3e8a9016e412a.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "697d8ffc39d1010af5043106a175aa936e08c4820ff7929768eba75127814d3f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "6a85107cc8a225c0cdbf1a41bf90131220200256854a23e9b0898c5a81b500d0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "6bc6e4f850adf05a8ab82a1d6f95be1516778044d6faa58d302ab428ff54053d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "6bea0c34835bc97b42e53ae1427b7b907d7d399715332e48b9f14f5a37a0b221.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "6c28b1d6c6796b795aaa49e6b86dd463bbaf4f39be5ba289000f716b25c5e499.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "6dc916902a846ece1497e67b812ef8a1d31b7a6341e08fe9acebdfde795dcb3c.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "6e02819aeef409ba6a78311d62a0f66968aaafefa8088a41e92a32a17d4e9f45.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "4105e6b92c4e805ff86d937f0df622edd1f9e44b41a693351e1103e7c9c02f48"
+  },
+  {
+    "record": "6e25615de568fab39b4b5c42fbb09f4ef83f9e8a743db68da6568ce7a6c1cb31.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "f0d8c908a910618186eb92e6069decd7e416e1113ad6b0eb546f5cd565bb00d7"
+  },
+  {
+    "record": "6e5a7011cc81847fd1f23f9d16e38a95b481205c44278d3c536e8166a4c0abf9.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "6e65f04ad6e242724b2a64ccd3e3b59349e34e3457257f72acfbca7188c0be15.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "4870aead6fb8b16ca6b06fdac774f7d0383716f5d46ccc14795599b59e646e86"
+  },
+  {
+    "record": "6eedb3909d012b913459afe3d13fa9d04cdc1c0e7e7165effe354b2d1f2a2813.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "8eeb8edc8497498154b2a1e16cf4d71babf0eca84e109aaca2e3b29a73050547"
+  },
+  {
+    "record": "6f4766c379b3ff686fbde93304baf3e7e02043277b4119c7346eac68f1780f26.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "6fb1e386d193f7a359208b4211308bf2cd7ef6c922e933062310121ecbed7254.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "711af64583f59478fd272edbcff536d0b6d4a6fdbdf41c4888dd714727a4e855.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "3090ed20b1d72e9926912ff540277246f8fa43267ba8fe2af4414bd0d08023fd"
+  },
+  {
+    "record": "719d17cc1fac75cb801ff50a0ca67efe981aaba4811129219967ce9fb4b7aa51.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "7255f4d23390a3c128d50f32a7e3f0c11bde334599bed7a75f4a58b362c5be92.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "38b4a98e9fa272184ab700aa423bb109e0106f3ca29687875543b277519a5c68"
+  },
+  {
+    "record": "7359d57930603d0223382489974bd033e884500785e530d6cf3f9a884a321676.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "73ab0683ca951876ca3706f2550609f85340a6f9d28d1bb9b116f8370a95f02a.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "73f7d79b9f09b3031f2515983951f0a3cad93ddeca4eb451698b164952452418.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "41f46a2ab0f2c8cd051067e6124e07565a87d608cf63e15d3b98cfb259ca214c"
+  },
+  {
+    "record": "74a641bc6da22922a46791cba9681f9e4ea2f47da3f8e0e13f9e0d8e0a48d670.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "0813b73947e11b1069ed4b9857fa759c6a84a1155742932f4044d5f378b0c0df"
+  },
+  {
+    "record": "74d2b76349f45c45e915b2503b4ce6b83bcbf424dcf02903a782e8c60ff79d84.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "75a2b140f1a0e015bc8157bd3a1d97eb153705dec411ac833f38231991e81f0d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "75b08495cea299eeb792881b26511ba455b7bcd1e52fb142187e2dbfec53ea83.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "bf27f148cd8c5b8fbda74f7fe789605bf11b66b1ce1460ed431339c65ebdf91a"
+  },
+  {
+    "record": "760e770f189d299f92899fc4051565483dbf3f1a05377808a519b457911ddf95.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "76d75abc96a07149955d61b9bb3c648ed27c26f672e3e4d9640821e291bc81ec.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "777ecca42bcaa2191a820311db0e4bb6c592c9bedce770ee94a03d30ee773f2a.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "779bf15c24ccc4bb714c7029770a1310f8dbabb73c4fc0655dde0c97b8298ea6.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "7951130a3a2369c6533712517be13dd4bb4e811b82ee2a7d18b3e0853961fbab.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "6909a989fd9b6ae1151037f40c636830d3def5654e75ff19a6dc05e29615d59b"
+  },
+  {
+    "record": "7b2edd4536e6075b9ed186298b43fe20f8471358eb44a11be1b2216a6ee31228.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "7b87a559e86feb78ca678753c5d986236e96c6bac8a790e8bbf8ac7d2eb3ee47.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "7bb5fe816292095e712ac3fb3f157d9cb490fc3e403871fc002c1cbdac60634b.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d29eed51f2a28e09a9c62b1ea20b6c8558cfbd9aa93d59e2d4c59d46336a1f69"
+  },
+  {
+    "record": "7c2fd303b7687b6d57bb27c6f9f2192c1a60bb62f00bb93edef4887daee5baaa.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "7d5076ca13b3643702ba63118e363ff0a3bcd98a2024f23ae5f51fe7474a23e1.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "7dbfbbe4ab0c04430b95ef53a907e31a36f77b09f24e4e2f09158d0e2e6c36c1.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "918110076c94fe438dc865dbdd90ab368757f546d5f3d8e1c47d893d93dc7e60"
+  },
+  {
+    "record": "7e285230f73beea63717974a5394249a2c008a3a024098428fb82bdd9baf6576.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "0a1edbbc33bf8fca2510a5902bd369fa1abfa35651249bfc70fff49c75ecf780"
+  },
+  {
+    "record": "7e37279f4505e5803d912288b525a06b447511146c93814f8f8ef4f0755b9b96.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "7ec2fd6c35eae650c2e6c42d945f6143beecda3928f5100d43db4e7baaac1cf0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "7f11f0c8e0894c1c923821d53c83445f6351e70e098501a2aca15746753e1958.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "7f3a2c29825f3ac111e72f0963ee4028e0fd54c912a23c53e428f56deac16a1c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "a4df04915809f1bebefea29a39868f8d24feeb5e975ff598ccf8aefe05b2a876"
+  },
+  {
+    "record": "80251a2a87e01fdf5acadc1fecf5564c9fb63b6f00cfa8cd50b91198afc59cca.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "95c2a6df316b0f864d16d967753769f91aea22049a9d0514abe499bb5301769f"
+  },
+  {
+    "record": "8098440563acf7493d0f89f64ea58192143590163d3cd4b835e1beb0ceebf6b0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "80a328addd6333315325a5e56c1ed2fead121e12c4215e9a750bbddaffa0ca16.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "80d821a77eea247a8dda0bc9c27c2925c265dd9367d22a2fadbdbfb6c346fbe3.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "8153849067891933c8557fd5551430851fb76b7dec66d1926dd1939aadbd7e6b.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "8315ee8cdae087c2d72db3eaa18fa3b60d5d9f1933a359a6b3c14aa1d95f48d9.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "834b8a2e07e88557c9c68276d595a6f023ffa0e98b6545c48d95c53563bfa55a.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "4377044a3c437295a5e6cc338a454aa505c68ce48940c4676276495734abd829"
+  },
+  {
+    "record": "83df607a4fc252d0c6b77edaff3abed8556135b5b8c0de29f9a387cdb4e79200.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "83edb9026cc9645b9889543c40820d8235c09e0ab12147cc18e04a357e209ed0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "84401ed2fba54500b54c963467e6c493f8ce24765aaa748e8d01902a550cf4f5.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "84724f94926eff5edf110bfd27bad71234635eed2080040500548ea1c1aded71.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "5fc43e0b40ba2c12dfe6a5f3bbe421e03ae6415aee5fa82feb0097149789c5bd"
+  },
+  {
+    "record": "84a7d1810790503f051dcdcf5f3c239794fc3eb2c5d61f19e2ebe6ef3251cf70.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "97b2696f0833393b38c60e2b63b1dc7bb33198206d416fe5c79eef990bf92d7c"
+  },
+  {
+    "record": "850d3834856b62465312c2778c8269b80361edf973034820657ecfdd2c02dba8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "858972291a1ba833a1dc87205f01f949b3e8e570eb3878c9143ef7c8a8c1e60f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "a99596dc308a9af9ab995c0ca3683670df490a593b61c3ce9b7eec139cec175c"
+  },
+  {
+    "record": "85b107cd9b2fbd5c2b76343a1d995c3984b4345ecc4bbc34561d80d316f77183.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d84bdd24ae15677f7de8d1fafa09f81bec733c021028228435a666129432c647"
+  },
+  {
+    "record": "877407df1a923535aa1583268aaccc1c22838085df666fe3a42d4d41a4c9c0cd.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "12bfb5378a02b736e2765d3afaaf08c7caeb87944c9b338b0c8f77729adb896c"
+  },
+  {
+    "record": "877e0eae2dd71c63ce68d87515e321f1872168cdeb82237c6fb92a71cdacf325.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "87c65c06eca94dc4286db194a5c78dc26d70ef7ae0144ae02a7b74c935647d17.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d2ac1ae43c7688259bf29473f13fa2277f4dc8386d4df684156e1292160b4004"
+  },
+  {
+    "record": "882ce6ed14fd18770921a7010e5baf9d8a1b3b8f98c1f8dd08d86aee63fa3f72.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "6ada75651ec20a389bad70d0f01cc5639d646630bffbb893204660de0ade6ecc"
+  },
+  {
+    "record": "885fe7026f950be1143fdd69050ea252d3aa105f04f598331cf593252d343d85.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "05409cc09413b5e66c01e1e8d6f93d8893e9171c37eb04027b227dc351cfd5bd"
+  },
+  {
+    "record": "888f779ecd182b95f2269f41ecea14c823d161717178d3eb04b00986f1d47c7f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "823674a82e592b61314111aa6bda738122da51c3db42fd407d3605d6929e845f"
+  },
+  {
+    "record": "88b1412aedfc6ebe869706735598a50cdcb907ccb5e784a9319997123ba65acf.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "46e11f93640d5bfddedaa0f1b461149c9ecc6945d07af6b19f2d505914407fab"
+  },
+  {
+    "record": "8906e9dade526b32bf433c659943b1b5757b5aeba2b2570dc4c880103549acbb.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "20b550c1796db01e1ed124e5658281b7cf06c63fe47a27457626362da4529583"
+  },
+  {
+    "record": "89196dfa4edbdd499f328713b03b4a991467efdbccfd39d83dc437f05240d548.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "8a1cf4e9f33c6d300abc84a8ab8c369b8b2e34fb42efca01b3b58ca00acea1f1.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "8a3889e0aa23d2ea39fea312aedbddaccf1b319aa8547e8aa275f3b26ab0e241.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "ffad4d39814812ad1e1a25d2df4186874320ca036a5b104028a9c690efcb7860"
+  },
+  {
+    "record": "8b0b46e2834a2044844a173cda1607d00c756cacdfac9210f32fb34f5ba2972d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "8b62de45b20af0bf17349a3b422b73eda39349fa8a253b36b8e506da4d5f4701.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "8bfd3af44d84f7224288f0aa51d86191e81054bdd806488d8f51e0006f45e4a1.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "8b99be81ee3256c6ca1dc10904e96f291d66668c560cba31a07b17e7f8839fc3"
+  },
+  {
+    "record": "8cdb3fdc8b95a655b48ff12cc2873e039fd2b895b1d996cd983246f34c851212.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "868095239acd361da42cc2463fe62abea0b03b535a429006b3bcdc905fbf3e67"
+  },
+  {
+    "record": "8ce016e11462ef5a3c889137d10bb2740c724ef26b75510913f0324f3fc6c035.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "7a5b504f7b258afa1c6da636be93f1dffdd0d72df64af15ab94f6bf639bd629c"
+  },
+  {
+    "record": "8d35043a26000fa23de7bf83111632e4007689cff75b05922dbf2a59b7d7f9d2.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "90dd254c8ca78fe0499aac68ce77a245696b524756b2060e8a004ec6a6cb1e6b"
+  },
+  {
+    "record": "8e5482a235f9337f0dac859161c9fb8a69658cd8758b6a95595b395f7fdca851.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "8e6b01926bedaf36169abb4425c425c2f507cd90e99c70f480082230f64b2113.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "8e95150b64709e989031fa0f745fe7780b3245bf8ff91e2450898dda6c98485a.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "c9f34861f35d43172af120eaec1e92256f4508d37f3ff0ab5cd8ae5cc53d807e"
+  },
+  {
+    "record": "8f0c8519116ea32dd2a0e65feef7a9d46eb59307feba528e26b794b62a8d358c.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "8fa3bc7a62f4861a62b47f109adde97f7445f3ae15f1517f1676152dab525d2c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "0b4919d30578a93f9b631d317dd84354f84fea68b6eebeeb8c15010e0629446f"
+  },
+  {
+    "record": "8fbb019408ff3db472b6c2dff2c0dab6f9238adf1d8aef61cee197287f490d16.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "90610ce46ae06309e65489846889c32faa3ffdecc9119759fa62f3a4fdb5cd1c.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "914123d470165056d4b4cda699019b1057e1136bdc445f3618b8a9b34c8eee07.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "63c3e31f1a156ec0696a85b4fa3b7a3b1bf81bc1dc2b88d37f13792acb8d7f89"
+  },
+  {
+    "record": "91e4ab3b7e7923f7ecef78361c36b6802de8eb941d278833d885711ce14fe695.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "071807e9f82cc0a6aee25c5b037d16f1365d94433b355a4566fc13ec54f9e462"
+  },
+  {
+    "record": "928b6f18989ea1202eed5c792ef87dc80271a94ed00bffa342790e09f469b7da.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "954074a31b22110a7f6fe0521a73cfad9b61a3353babcd0a0c7eba9bbe816277.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "958e58c43247556d5721d1bf63e3e032dcb98e1382be7ccc697ca003516f235d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "95e63f54f7f78f7706993399c729c4d641e13f550c5a4a48e30de78c0d5fd592.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "96442a7ac8b2b53d9b0b9e756af37c7b2763d402daba827313b86ac5817eac63.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "c3a72d0634f754890520bda2b94c80649d130e3882390e1610de276a2e4aae38"
+  },
+  {
+    "record": "96ee8a6264990ab13c6a2d7ad7fc6d9160fe9b9ec5076d1cc5d0a7bce477f512.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "5fe551aee953cd994059eef405efdc5bdcbd583812fd2f1d0782d5b3b67b4f01"
+  },
+  {
+    "record": "978d86be474b0dabace7889922c3f7900515f5d2b36cdc6822ed93de64aed55c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "ea68fd43239a590d7d79e6f51669290f7a8cfb90f106642d18b08e65ca2761c4"
+  },
+  {
+    "record": "97c262d2420a30bbc702a86695b1bfed9c10a8737e12c3da07f52b63f5ba0d3f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "97e59c4374de1ced3a2f2404305e2887188fecdcbfad2ef6e4008e9aea3ffb90.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "98370aa1773ab8aec7ddf7f979db4bd7a37d8546a865d4a4ae4674b92d9f9032.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "995f9ea64d55b765f5ab64e593f09a1b99aee770b264d32d4d1edcfd18e784ab.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "996ee680edf12c90167dba28a4575c5dd1960496f5b2d46226055f21a92fc392.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "99c83610e1eee37fca7b0cb5688b6d44a4286ad263c23ba821e8958f0fa37a01.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "b8d6de6bbe6ded9c5d3662a4e9bbe8b2c95ba9ba87aa77309fe6d5dfa2e5065b"
+  },
+  {
+    "record": "9ae1f9cdef1cf59aa7f53726bc554f99a08b6ddbce035a3fd316d4b8b62f021c.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "9c066345bb267ef6d74396faea637ef6f84f05445fcd50ce810654abaf07fa09.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "33cc5e99f80c905bc3e4cbcf340be557228775712e246abfd2678ae6751e393e"
+  },
+  {
+    "record": "9c187d291a5c637a0277a509080682d724f628d9e15e99672e1ed90150516e78.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "6196fd5eaefe9d9558fb17456b91d3d5cad31d1782f9b693076dcecffeb60f1c"
+  },
+  {
+    "record": "9cda9fee9f0d7d9357eb0a60cd784b1294e0724a0466bae8902d5ca55da76eda.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "6d3eaf73c6ad3fbb20004ed46f1c2085c8b28f3ff8b5b5351d9ea9e80376c2b6"
+  },
+  {
+    "record": "9da1d28d69826ca4fc03ab6212066a8e8b2405f8d07bcf3afea6c09635b6c9e4.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "9dec2b91a8c91f22244726422c1ce61f1207d3676e31ed706fab34fd357f7b32.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "71cf1795d77906bbe63f9038f063b89444d531e9d95caed1f23c4d5a37f9e212"
+  },
+  {
+    "record": "9e6c8c1b00da9a8ba388fae07a0d5f6e41af52369c2d4c2531f94c8bad61c4a6.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "9e8d72621d547c9a659db10e32a444ce7c19ac589906d99da2919b443569407f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "e7312289a4c2e771689214e6b51cf4703ace4bd6ee6139b38849ca30de5d3c39"
+  },
+  {
+    "record": "9eac3443f948cf3faa2d45b62a170358563a4d79c1d51f17a2368477795a5473.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "9ee58c946ca30661576bcd320a0aee0d63b9fe8352ded67136e02ce0398ab9c0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "9fe2d1345ea4a920ec5bc05cdd2f3e3a1212200aaa25f7301579a93642c5b5b6.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "222e70ade46d94b65fda905237b208b22ebbaf208e9149a59cb25d7474705386"
+  },
+  {
+    "record": "a0035d6427182b19395280b760ee004adbd3439810beb4ac0b3d03090aa68444.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "a087b03ed5ce3f7bb223d905730ebf086df20736e1db600968abb843883c463f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "18fd0770aad2eb98dda041d23522d39a11c7d3a6e1f2eda0d5f1523b118dcbf1"
+  },
+  {
+    "record": "a087d4bd0974c59e2e5ff64580214cc583783de6e1a63f53b3a7ccbb3fa0aa3e.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "79f3ac155335191753fbc65437a212449abb8df2e840e2ddc97bebd197551b73"
+  },
+  {
+    "record": "a095a76b954dd94ae1b957ff658938ced52c068420cc225762b0e8c6287e1265.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "a1280b26c3cfbacf832508897696f0cb75c756537986851a13843d2e820b6426.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "a41a91aaa1a03f271f72841d700742731079ab122e9d25b287cb21610bbfda31.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "8cdff3b83a7b742b64494961ec577f2ef985a0d66bb9cba06af4589bcbb2f8d8"
+  },
+  {
+    "record": "a536a1fb52746d7b4670afb00543ee48ca00d753f96eab10b7a03702acfad34e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "a6c7a7210e685c03ee78c7963c2863ee78607c1f3f0ee615686fba251c974fa5.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "a7f955ca57155fd1e0088f4302edda506d87d7d8e32e7c26ecec212ff15c1b9d.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "fe5fd698a731fae375b8f0fda7a6c6a78def381ae6bb9316137fab31d42704ad"
+  },
+  {
+    "record": "a95c0e479bed3508b4fea6e1e08fd5c54f66514deafd4c61d43b497563bec687.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "56e7fa7937eb1ec3641a05d83396fa2a4f7dc6b3f39f090bcdd89737cc52a264"
+  },
+  {
+    "record": "a992b66eca7c20d9211e6642c98ef3b2b65f116ea520a2463384e184cbf3600b.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "a99d0a3aeca2095ae11f8e33ba72bdf02f690e14ef5c43b1f963553e4af6a69b.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "09d3e1767ff6d5f9683dcc88dbe67083f3f0cb98c18ff3df8e3fdab05ac41584"
+  },
+  {
+    "record": "aa21f4c5f74a75d7a59ac7c92d02f8ba87f687dd5bb47c83a56a1b0883ced503.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "621158682babf3c723544829173e4708caf54a45adc72b47bb871e901b6f2848"
+  },
+  {
+    "record": "aa53eb669e1acf4ea65eb53a906e4937c11f2faf214ee5bbede1a034c2882e1e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ab1edfea930c675e196dd3cc91813a8b3cd4ca18a25bacc76aa92bfdb2a2e8c5.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ab338ac7efe90566c4e11cd29b8deda2cb84b8e0e9d48d6086164f11c623b67d.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "1a34123dc6a2d62e7c9348363740a475fe360b1d64c25bd51caf44779b07b236"
+  },
+  {
+    "record": "abde08d6f3de0b5e7ac0e10927cca237cb2751c513af132a5ca54acb73f1b208.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ac112384ef66717b742d1b0159a2a846b213aba6e0abd83f3ad57efbc2e6ac97.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ad76c3ff05159a22486e55a873f6a58c29fafc59bb7745cdf8585b7a56239c42.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "5ad721b19b662f046f44dbab3cf338238540a1384054136f787c51a6db3758ca"
+  },
+  {
+    "record": "ae8302e5a31ea590a9fba5363aa123cf451a38c127e8a190aef916f0ec97770d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "aeb8ca9d30b7738616511dbf249239d8dbb82e9a77a0e9631c0b540f5cc4746e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "af2d5851689ca7ccc04981a722fb3029331143c613fd17f0c1eae1656a550c88.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "b0514f3629698b029e8f57a3627627f1543e58c9f64138c6d5e2b63815d625e9.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "50dc6fc6b636ebfccb49ba388050ccdc30b1f1533aff8f4f70b29d926c7ebcee"
+  },
+  {
+    "record": "b065fb317a2b5a47115c4c60fe464f5a1c9b54582137a2b4d7e21f8fef7d9e2d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "b18f9fb1ddc13756e2f2944f679d57175bf45dbd2b1c2529413fe730294425fc.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "16e5075f073471945c97893349501a9cb9f0c6532863026f5337d7b07d2ffc2c"
+  },
+  {
+    "record": "b2682a97192854abe6dcd05f0a6a234a42adce32cf28c6a9b39e1f3a5c153c3a.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "05f4ebb3a0180f1f21e452bec2d53c978690038899e7f0ebb1fd503ed013cb31"
+  },
+  {
+    "record": "b28bb6c29887de8149dad561fae4755396b7351dfb10dd0a6a51cc383b3878c4.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "b2cf67ebaba550ba5e35277b6ab4615c9e0a47f1bfd1f2599900e60ec277108b.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "b3256506fa0fd266d3fcdacb6ea019e51ffb4487b43b6b6dd8c706767ec565a8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "b33a78b6b21d2f7269112e0d715f6c3a9c0cc4e0ddcbe387f0964bf8554010fd.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "b4deefac3a4e661b54cb0422ce5679d037a9f5785dd96c71cc7bb63cac9cda73.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d55290399bb0c0405f4af8fbe4fc7e070bc778a5b2474b7e67fe628f6f562a68"
+  },
+  {
+    "record": "b508ad44c7a204fe5e0793ef29fa0342c2eaea098b6e2b40ed5edee397df1fff.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "b5ffde2142ecf2d46d9f70f01136190a247e4c2271be301051f3830edacdc4b4.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "7c0f985a6c1c4160940c2353cc5e825745cbd51168a5290281e6458dc747b7d2"
+  },
+  {
+    "record": "b64b472c4f24a68e67068f9ed97919f31c9a04691a12f75b8d9d002718c74986.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "b6b5654d4e1e54e71765d3477a51a99d390e1005790b2988bbae9db982d8dd29.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "75714924caab811f2a2cbfe50f1a7c02e3161b0add72ada26c4fb252c3633e41"
+  },
+  {
+    "record": "b806219ec72d88eab80575644020bb17fd2e02280436f6ed9f861ee8219bb29a.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "cd608c5e1e92ff37550f71b13a5a4f802d007023b9c809458cefe0fffb1ece97"
+  },
+  {
+    "record": "b91973f71b50ba0e64dc08c6e3ffdbfa42b0770f1bc8aeb4a6d7032a62f3c670.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "b922a6a2e247c622f705f0607ceb905be71484225bad8186105ac3e12edaa856.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "f475cf7604d21dbd3f1a70235c7093364042b6a035d09ba36f154c70c966779f"
+  },
+  {
+    "record": "ba31469c7d37b9ea6b4402aaaf2314d09bf7a9e6638df91907123116fe9cbd51.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "bb1729bbc66b9d7e7f638b533348e510db4d8497874309cb3ca658cc3998ba35.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "fa8670227304b534e0433d2efe3b12a965faa88549ffa5af016c0fb9e920bdfe"
+  },
+  {
+    "record": "bca7e1f4f327a829ff2a268f19ea4072b0a6ece23729dfd8236dd98f7fd2432f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "bd3474fb7274c54c029d9036b9b8f303758dc4f150d5425eba964056ffa3e268.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "7b85dbed887a3de11620005879d2324a542de9c054998f72a6a3399ec69553fa"
+  },
+  {
+    "record": "be116e1bd631d21bb1f4fba6d6574a905af6883a44a4b5b43b3d6d0e5f9d078d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "bebf616c369778758f75a59e84a46a067338b08f46ec42709981fc6e23474dde.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "bef793e926089b53c014fa7e2992a6a0e7c08a2f4ee59d700f2bbe3cc26d1f61.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c01e1fd453beee0ce4f496ef645ce4adc981b79ac1f779b2349996a9ce1e3b0c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "492ac85c8c161d5af4fd00fa199e56079fd727bb2d1e1423cda56fb27ad0ab9f"
+  },
+  {
+    "record": "c01f1ac28d5681fce0d95aa3882e208d062365cc9ba2a1eb1064ac4348837701.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c02fad717a06cfd1ff6592896748d907d6968ac5661d84dfea0e7baa5925e216.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c03d4e7c66658a4392b37e534f42adef1b83562ef84c4b82826c7c1e21c2c61d.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "a072c8f4168264223400764bf28f0f85a32ab91c89e9d08660150dc068691deb"
+  },
+  {
+    "record": "c108853517ee3969ecc22e0982c2c10f495fcc107ca4201a0db0e5972ddfe36a.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "07acc5738d612669a14f737b43b24392971dd7571d6db3662febdb40d1d1128d"
+  },
+  {
+    "record": "c22326faeb16eb0ed818061879e8e3fba0ed780c37e05f83968c32ee6337a753.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c23abc7a9a39d5167b83e99fc89039d6f68cacb86cbc3f7db71edce55e96344e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c2460e23d6b899130f1e063d7ab3db85fac8cbfbdb0b750478a0b8b2c148dff9.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "cadfeb15395c794a1ce34880243fa264a0f9d3a17a4af5256fcc5cd6dd3f0315"
+  },
+  {
+    "record": "c2d7c479e746810e1e4bf3178de7f1478b9817d7ba27a31acfd5d553ba702451.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c386108ff574fae4b6e1037ea9a3d64358781415999336f010fa65493d208d9d.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c496f4e4a3cbb9aad6818ac718615f062da9e6c5b33ba15f4ad15477f9bb64b9.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "539153f6c51c16f2534380119b761d7e322269a7024635e19ee05f51fd8c22c3"
+  },
+  {
+    "record": "c4f2457ccca64d1470f57d45f95c45001248edd0011d1c5773a5523d56729709.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "e1c110f81051432eb7d2417048ed454bfb497ebb20426585657e1bbed4ad9cf6"
+  },
+  {
+    "record": "c57100b99b34c9e1439acd9ba954dd0d7e99e155a63cb35d6592b1b5a9036d03.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c5fd761d71c049b832cbf767ec409f668c86234183e84c27b10a02ee17387c7b.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c5ff33b75f0709115cdcc8045c29d40c7102a3298d8645cf64316cf79b8d6a71.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c6af09582c58bd452f7d4817448004f88014c892e887a35271aaa654cde39d6e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c703daeecc3caa0a3aacfa6868046085e0e89c230f364953126db0a9bd55488e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c73cfca1348bf198e4555334c4e16f29a35e4b63423bc8d231787033fb6685c7.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c7479a5f62469c1ff7b3d6712849705770eec6c8b61c7a1cacc291b44b4b063f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c76151e45542caba1617e407fc8cb0e339860a88f52e4ac2f38d2437e45ad8f8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c7cd4d938269a4b4f31e779eef12fbc161f31d74d8eca9ff028c75c034c9da26.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c7d95ca4674488d42a35ca3477415965b0ac9aa04f01fcda93558cc26b787d73.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c7e7cbea51b7f7d5c0174006c1195933f9edffcdb423753f073bad296fa48035.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c880a8a8cbcba33ee0863916779bf10da80a54ee690d60dd21e7834e61a6ce38.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "c9bec03ac2c4e4304cce2fd010e16afabf8975799c0a4e0f36b187e7414d24eb.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ca1e6cb667faf71196891e53e4d46a8bb14f0c12053be45e2309991924fb2e6e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ca80ada877af6c2a87f5b25c5f07f7fdb592ab67d85b57df716efc458c006aef.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "cb333d74b24b325ae1bbf6c5d8636b91383084a22eaacd5adbd4f42c5e263ef9.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "cbe1511727ac8257fa8287cb074ead82302a4378dda4952c47e08bd3f90b3472.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "1e30f0caab4862e64ffb54b0fc8a787522078254513596497aba7d24393fa1f9"
+  },
+  {
+    "record": "cc657dc2f92b55b2b4eca7954645c4f71cdc6bb22632a7ed946ebbbcf3fa6ca2.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "cd2440dd021bf0ab1a7f90b55770bb2617ae4b9bf2a313e59400e901469293e0.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "c22e0a8a10ec7da627bd8734a44506ae673744a4fb5e4b8f6ce31af4df0e7bb2"
+  },
+  {
+    "record": "ce0781095ce87ac05a176848dc51d6582938367c8b19d9c389bb979649a86cd1.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ce80245d9ab7bf010f39083f193d37d5dad57f7d57c2f77b52b5b4f644133f39.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ced1d64fc3597cc6d624bb115e195f042bc443b40cea652e4b297335b22d4bf5.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "2d9b89c19e0c64abcb70d4b43e5eaffd542deeb5a5c37cd23d34f1d41d41bd40"
+  },
+  {
+    "record": "cf06231cc84e15815749d85f601bfeea8298a23f94c33787e4017498efda8cc2.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "c5ded53c61b0bdd22ad2a34164bebba45f08806f62d7aab1f8e6235889e86440"
+  },
+  {
+    "record": "cf24c12c54a62b639558527eeb8541a09f7d9acbe2c0ec1e59bb3b4dc77ac54b.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d056b8084be7cc683e4c052057f741e4ad12c959b576048805de527d66d75821.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "958ac5be0aedd58e9ea5da7850d599d6635916faade922be54af7a837f576a8e"
+  },
+  {
+    "record": "d0d3dbe761d5607292a35f4e98b91f1fe009cf49caf78a0497b6cb0dc673e85f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d122b5ea3203e414fe217a61f59884f8a7f655de54ca3d71c7e2403eaf74bf62.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d129223497f7971584c77289b695509e4482321621f4b2e218aa6cf61fc05d73.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "8ebd0ca166a8e0ece06fd2a3701ee9c8ad23ad6ec25151891782b6b5670c09d2"
+  },
+  {
+    "record": "d26258991d291e8d460e36a1ec5b71c5e0b33f3c9c1745210bd86f7480f7deef.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d26b93d71f3c1990501b0ac6f774b43a491058301e9ec13cbf985d45f630c866.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "121345f05188004f82e490b7194f9ad6ce174497c60b7995ac109b3d4fc4841c"
+  },
+  {
+    "record": "d2fef80f9928882b5247ce203ed92af9711fe4b6b8d90bbd67f23b192e3a5c78.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d373f42610cb28b6af02115edaefc5781f61894e1abbdf7dc7b94adc7c6d5e30.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d37732d18ba91323686576203fd5e3e255b0c5431715ae040f05df34237a099b.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "33483e6009de27149d4e01b74553b8b0a9e83b3ba36718ad33f9b33535a0e294"
+  },
+  {
+    "record": "d37e38b8986c1946aba97c86d708d12c6e99551f4862e5df9dac3fb6d4a7a25f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "fcb17375d9c49ab2fe65a379eca37f00ad223d069e9381ad6bbb12922bee81fd"
+  },
+  {
+    "record": "d3c036c9068b12c61d0d700ef18de21898fcca12c4a228d003149f01eafcd31f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "65f432d13dcdadf24931af3b3fe0d0fde4ac59c09e1bfbb51fb146b175e81262"
+  },
+  {
+    "record": "d3c9e8ff21abfd13bb3d2f8fa9d90cd56a47bc58fc890dca45a1a6b59d93b96f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d3ddc3a9cf4163b61f4c3a24de4163be29e96b66a0f9cb431e870aa1f09ba3bd.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d40ff33d5d5ca8a68a3bcd9bbd8d1b4539fc304677717b3649dcf1c5d755a1c5.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d497e064f4f369ad561eebc3e55fe8e85fcc215b3f861e1b78480a10eb293d05.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d4b823635b106b75a25c67c188b321eaec48710e0673a5f4d9d315f4262233c2.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d4eaae36d3f43ad1fccb2e6421d6e211988498d53c5f940bfa5d135e9d9549ba.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "ba998724e02aad0c924903d574c2e749ea22a62b60a383b4151bf91b109b9d8d"
+  },
+  {
+    "record": "d5b74e2e65bcd20d2419c3784dc997f84a4278efa940b3f7e63765edd75ba44d.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "9689cae46f06addbc6ad37daa845ed7042114fcdef693733fbb3dc380485cc38"
+  },
+  {
+    "record": "d5cb5c9556b63290c4373c6c6daa1a0685786c319c4033923b716162b00bb1ef.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d3291ec61d68269b29c2dd1b1fcc9fbc1d972c1baa500260daa1d3c48489c7ef"
+  },
+  {
+    "record": "d657d9a353e5f5c3ba2522e14d4fcabec9e80aad4ccea74866271d66eb3ec0cf.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "e415760a746f48abedf47a50d8c477281d152152a6ed2d2a93a9a0c227f6e125"
+  },
+  {
+    "record": "d68c054587ddfb5c1918ba4a3f946d8330cd6efe23a6e47a4f7c64d2f3d0e74a.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "3b4f59e31ce01656eb6ab587f6fd8baad22495fb0b7c5bb5d8d1f50a7bad987e"
+  },
+  {
+    "record": "d6d2c3d68ca5d273c69fa2d653f9f5990f62b88a5a3f7c0bed846e75d3d6b88d.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "ad05e93280b4d3fb9477023a93cb43a325914ad2282b8a7f2436d0a90cee8987"
+  },
+  {
+    "record": "d71887de596aa9245bc024b7fc9c6b4c1a6621fdc58abf891ddd094f7a971ae3.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d7c972395159fd6873135fb266354f680af2aae02260fd2be1eb44bad8fb7615.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d815b6a48a06c8aa3a990ca61ee982d86c829dfc927acdad4fb4234d3c764615.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "3e043e6480f752fa7d72df19784747b5cda56b0432c370c89e4aae58af6dbca9"
+  },
+  {
+    "record": "d8683236b3069e5e0d88a232b95923f75d1e1164e37f3cc1cf8f1cbcd13f9dc9.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d87ff88e8750464626a052ebadb5cad939aedcd0ce362d6379ae5b21b10fe6f7.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d8c1d7d82d33cfdc977ebf10b3d67c483a8d128ae5db1255207432ae5ce73737.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d90f2065012e2fd5e82cedf90545a852424fc78b88853c7ed79bb55db962359e.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "d9e73b4008098962554b5a4e5b8c1891ad7baf96167a4346662d58dceaf32352.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "4b2dc7464de0e7cf887496a53f4dc3b34468c688084704302d613791e4522576"
+  },
+  {
+    "record": "d9eec976ae604f15f1d2dfb6e8a64925b79295e7971b290961e6a902af59a253.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "2c565b221952ee95c0271591082ad99bc2e7253e2c94599b15b6dc94d001ddcb"
+  },
+  {
+    "record": "db5cb8cebfd48c386f6de56f79e6d52fe37c7ce389b355e1c69ad328e61038f8.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ddb4c8a6b6e86f36cea8978103ef83520208071dfad30c4aac04cdc9c9f62fe3.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "4757866087920acf6ddc1f47068b6399ffda61cc53d5a70a1b9554578f1e6814"
+  },
+  {
+    "record": "de284b533d2eb876f1d34b7904f06f22890a4530b9ca06a6b3bc9439b356f63f.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "acb61e2334adfe7b29902d16fa9c5c9f412786e665323bcbf63f684e5251310b"
+  },
+  {
+    "record": "ded014ae6aec93468ef2415f3a6a1f5f2fda9102f4fb334a8c3479fcfaf13efc.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "e0286becee993a28f458c1ccfe7d4ae45d3e119cda2c2c4c44e4eb4df5c32c98.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "f7ec49def38309fd4a7e43b326bfe24f64dbb95ea05a6564c74756e46a505a02"
+  },
+  {
+    "record": "e07294be78f4e1b3dcb3e470aebff05bb0011ddf86e2589a0be4e188ec09fe88.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "1e3f9a21c07aa71cf9d68789f7b3ee47866053fc666f479a71b27b46a52b46a0"
+  },
+  {
+    "record": "e27fbc43efb18323d6b4c70be63c5bb7fedd1097ee099cb378b9f7f5e55c9b14.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "2d277aaf1a409cad0e58edee37d71571908686ff52a1b20bd1717f5d47cc514d"
+  },
+  {
+    "record": "e31e69e74074daf32bd92339f4f34afd7199b22d6e74c0f441f3eccdf78eb378.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "e4570111e01508e231de35925154bff570a523017e77fe4febe1c33097132f73.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "e5b61e0717dd6454cd5e89f681ecf45e1b47bdd9b1861fe15ab9af2beb29deae.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "0c8e856d9c92b229b54c9410a9025710850fcba8cee74d9ebb7296ae2f228dc3"
+  },
+  {
+    "record": "e60d456cadddc0e8b72ea53edde45071aae3b4e06e6063787a2938c186af8e90.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "e6a88860707a67cb584309edaf2a14509563f0153cd162f3aec5ec7153dcafa3.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "0455eaa3d156f60ed3d2d14ae34d755f74f61b5b40a27caf13069b56c55c3d42"
+  },
+  {
+    "record": "e76b00105ecce8a1c42b30d0c513b31a29c7374aab1672c85b0181f8c9bc3e83.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "e7c87aba26c0473d7c9b7876d1a1e050848506df7f845fe448b689190a148300.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "e82dfa0130949e264068eae6b5733d56e8be9a03426cdec462a44a1d7a1e01c9.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "eb897e588899842c45f4098ce4131d73f687451029cab766c5cdb525eb15a67d"
+  },
+  {
+    "record": "e830cacbe35a448dfbaac18b04c08cfa6ef6dbb36bc0ff3fb39870e3a563d62a.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "45342a071428b9c88c29b0c4919c8cbb4557adac23c59f6287db83deaa938d1c"
+  },
+  {
+    "record": "e850af580b267c5b1fd8f0d9ec555fc598ec3ce95534118a413a3ae1ac060323.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "e871c8429ddf2254ac50bbd1ccb88841f16dcce4e2d8ff36f9bbabfb7a2532b4.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "4a9140d4231f4c4436575d5aa4d5e9e450ef92d1d95001d1b059dc45bcd54ce1"
+  },
+  {
+    "record": "e8779bd9fb5df0edd7ab8f73ae2c37d37b48a15c33215a716ba597c49f806546.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "7e965d7f228e60073738567d0424fe899e965b9e1c1ea6eb7f3f5d1f4f03647e"
+  },
+  {
+    "record": "e883703452418ad448f133273df955ab0f0bb7f935f6d569039b522018661b68.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "e9035de226ffae476decebdc7852cf0eb970ea06850f827a5a64169fbd0ddf6b.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "51e211a65152d834d886c58c4da6c30943c9637fd5abd16e6c39fbe175f7ee00"
+  },
+  {
+    "record": "e9299bda30f38bb61a2cc6b6a0e1fd1272a12ebc9a84c22dbd69b257fe7bcf17.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "c942232dbf08d9bda1049f179b66d160b867c94bd12120d6ef4ebd7b14f1e815"
+  },
+  {
+    "record": "ea2ed983983aada677f8103135940a63b80bb1b9eb1d2317b7feee15a17d0c83.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ead440d4890de4a3e463c847332f7817ce775bd0694183ac82a9c044b5946ac3.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "eb893d55ecf598e11fd858423eb36c403b5d4da8e205e5003ab75db53a6e5393.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ef1890130c4614697f0ce601c639956a1ae8fd5bc970066eac0a51bed26080f4.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "6f458feb726fc2d70cfd8fc67da429dd7468f1cf3023a2d9c576ded4291bdf56"
+  },
+  {
+    "record": "ef90c0e2ee89e20232f6961958c82384ffee7c859d940d4d83ba83f0d7ac4def.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "f1779f0420147700813f96025d9b13d7161f78539c9917dc449e3a268426d948.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "f1c11cf56c85bddd27b92f33f7e2b54e9e86a5dd8fda17c428bcc3bf453f4dea.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "084f7c516381e4f6caf09927716b0ac3b95be72fcbae1193b0361b89449b8acb"
+  },
+  {
+    "record": "f2b7f41573f910a58dfdb189009c51e928bee9d018a6aeba27e87c324186f6de.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "f2c3106a7883d07bf0b9e473691c50d1bc97c92b08f3196549a5d046d2946190.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "f2e37612b34892c4b78e9ae007b1457207f5031ad976a66e3a09a4ef85efd591.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "f3cff17b28bd727350310c047ebe537102a2adb87fcc80ea7b2de98e42b685fe.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "a1f1dfd1759b77b9892a53e6bea01a8020637fe74866452944be47f4d6632025"
+  },
+  {
+    "record": "f3e54040bc9a40f36c1774b55f716e8a787c701d3dc329dff3fd3cc0457b8383.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "f44410dc5576e2659a910c1d233014e976eb30dbd252eba0ea11f74642d428b4.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "f44e49bdd2fb9a2b42f9013f55942783b298f2073bdc46eceb76c76ee130ca70.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "a64eed60fa3e21f05614006b3f8f623206a137337bbdf97833f31f7770ad4731"
+  },
+  {
+    "record": "f471019f209cad7a472706b536fac67bfe5282ae2f9dc86638a83fc4377456ff.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "f4b980a3be223125d69c0f125156970adf61e15cb30bbf43c981af07e1dc9d19.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "d97f8522349d1d041ac0ffcbd3baac4afc901bb5cc91e8698db8ad2bb55603a9"
+  },
+  {
+    "record": "f526b1a15f405e0af86a7b0e69e4285bbbceeccb22be105a5493b1477bc24dbf.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "681fdb1a81f41922370f81f38f89def95ae5fc95c8f46770e0a563461489e6a4"
+  },
+  {
+    "record": "f5501d37d385436e18ca150344015e39360e95cf75d95979d8ce0e3a297c7a10.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "9894eab58cf8e933c340f30212d87716cded6054569fdd240e0fbc1ac279a59f"
+  },
+  {
+    "record": "f56fa788efa60488bfedc4da7bfb2708b48136bab3d374572040c2fcbc0bc08a.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "f5a0df26222bb37a6cb0074d3db75101062c0b3470d576727e495ebf2d628168.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "7cca00f0696d4d4d695d4931477c9afaecedf758082678f0f33a97787b13bec3"
+  },
+  {
+    "record": "f6a23ab861c3ab53f3b4980e4abe0fcd05c40a46ee61b64a63955e99ff3f6078.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "f7647f8f150ca667754729f1ae45ff01812fa5372785a5776b0c08e2d64dd4dc.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "f9f4d98e00a1782292f861eb70af4568d9c2f67acbd85dc5b1cc023fd2eb2554.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "fc0878009609521d4ee85c56b7e5053b15d47978982a6b0ca39907bb12fe6723.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "fc0fc6084481cbf5ca5705b6a238e719cb6375778f6d793beb9df7e51c7f99d7.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "f6df53f38ec07dd6ed0d7bca817c214c87c912efed6af8deab14e8e0f5cb4eb7"
+  },
+  {
+    "record": "fc214a948e8ea49a386b11fb929340685296650b913456ccde17fdbf3ab7004b.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "f2506f5d7c4c2e13a9908edd1459750c15fad31a6d618e438b3ee3e15b3bffe7"
+  },
+  {
+    "record": "fcd2f0e2d6b373e67275704ebd6e2c9e83476624cfde1abb6cea4aa8a2fd239b.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "fcd90e76cb9a559f834d73330603cc0a4a18c90dace1433f0348cf6c088356c7.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "fd9a0d0da747c68b2503ab47863bd52f860ac8ea18a032a751cea51d357f8875.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "fd9cd5af0c1fc2e45fd2c8f6d2040e191aea9c6f649ac9308f2b6105f9b8940f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "fda716a5a7f9e27617913356344c2eb9a70b451be8cae39a2fb087adf217911c.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "4811ddb7e6ba916c482602ef1e860354d58140413beeaaadc3d1a583f82dacb0"
+  },
+  {
+    "record": "fdb895e3ff72d7b0cbe0a32632ce4d3bdcfb86cd5d854a028b4c61df246c59a3.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "7997beb88580b84ed10798af45b0a3ee3ee5321283704f0a47b60999cdac1346"
+  },
+  {
+    "record": "fe29b3cec340c03a760bcce902f1b669f56c800a4da5dfd75f0cd6a416a51e77.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "fe515a04d0aa771810ca2e3cdcba8912806fb99878191470a99c91bfa92371a0.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "fe7f95c7238c823bc0575f08b7f2f1d95d0acd035c787c18b78c1ea6d85dfa51.json",
+    "status": "completed",
+    "error_type": null,
+    "fallback": null,
+    "sha256": "9404d5560af0fc293c61efd419a7c3290356e7284161cf9ed7635ff57c83e7db"
+  },
+  {
+    "record": "fee37d2a3bf07abf7c50132b98254c0467f9c067fcb00f94a92a67eee63779f2.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  },
+  {
+    "record": "ffeb901bb1927d2c831a272a9aba78a71e2850c55b9aea560a2d459555f2587f.json",
+    "status": "error",
+    "error_type": "ValueError",
+    "fallback": "ordinary eligible retrieval; no gold notes",
+    "sha256": "9b7b29511dbe06ae55c5042ac0e8620acfafdaead3dbee7bb889d3e7395d347c"
+  }
+]

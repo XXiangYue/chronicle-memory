@@ -1,0 +1,12 @@
+[
+  {
+    "id": "budget-old",
+    "observed_at": "2026-10-01",
+    "text": "The budget is 100."
+  },
+  {
+    "id": "budget-new",
+    "observed_at": "2026-10-15",
+    "text": "Correction: from October 10 the budget is 200."
+  }
+]
