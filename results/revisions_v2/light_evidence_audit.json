@@ -1,0 +1,1006 @@
+{
+  "rows": [
+    {
+      "qid": "train_900000",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900001",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900002",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900003",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900004",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900005",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900006",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900007",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900008",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900009",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900010",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900011",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900012",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900013",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900014",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900015",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900016",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900017",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900018",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900019",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900020",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900021",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900022",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900023",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900024",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900025",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900026",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900027",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900028",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900029",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900030",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900031",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900032",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900033",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900034",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900035",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900036",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900037",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900038",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900039",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900040",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900041",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900042",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900043",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900044",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900045",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900046",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900047",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900048",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900049",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900050",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900051",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900052",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900053",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900054",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900055",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900056",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900057",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900058",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900059",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900060",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900061",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900062",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900063",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900064",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900065",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900066",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900067",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900068",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900069",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900070",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900071",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900072",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900073",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900074",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900075",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900076",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900077",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900078",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900079",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900080",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900081",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900082",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900083",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900084",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900085",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900086",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900087",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900088",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900089",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900090",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900091",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900092",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900093",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900094",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900095",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900096",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900097",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900098",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900099",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900100",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900101",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900102",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900103",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900104",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900105",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900106",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900107",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900108",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900109",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900110",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900111",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900112",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900113",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900114",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900115",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900116",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900117",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900118",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900119",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900120",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900121",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900122",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900123",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900124",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900125",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900126",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900127",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900128",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900129",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900130",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900131",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900132",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900133",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900134",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900135",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900136",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900137",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900138",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900139",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900140",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900141",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900142",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900143",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900144",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900145",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900146",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900147",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900148",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900149",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900150",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900151",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900152",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900153",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900154",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900155",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900156",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900157",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900158",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900159",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900160",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900161",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900162",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900163",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900164",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900165",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900166",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900167",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900168",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900169",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900170",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900171",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900172",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900173",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900174",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900175",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900176",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900177",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900178",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900179",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900180",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900181",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900182",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900183",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900184",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900185",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900186",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900187",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900188",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900189",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900190",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900191",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900192",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900193",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900194",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900195",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900196",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900197",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900198",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    },
+    {
+      "qid": "train_900199",
+      "same_source_quotes": true,
+      "identical_reader_evidence": false
+    }
+  ],
+  "same_source_quotes": 200,
+  "identical_reader_evidence": 0
+}

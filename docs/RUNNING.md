@@ -1,5 +1,7 @@
 # Running Chronicle
 
+The later paired comparison of Graphiti, latest mention and Chronicle, with LongMemEval transfer and exact reproduction commands, is documented in [FACT_UPDATES.md](FACT_UPDATES.md).
+
 ## Environment
 
 Use Python 3.12 and the checked-in `uv.lock`. `uv sync --locked` installs an

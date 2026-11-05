@@ -12,3 +12,5 @@ Chronicle is informed by the eligibility-before-ranking design in [XXiangYue/cha
 
 Third-party files retain their original license notices. This packaging operation
 does not assign a new blanket license to the author's original portfolio code.
+
+The 2026-11-05 revision benchmark downloads the [Supersede episodes](https://huggingface.co/datasets/vedant33/supersede-rl-episodes), the upstream [Supersede scorer](https://github.com/Vrin-cloud/supersede) and the [Graphiti](https://github.com/getzep/graphiti) package under their respective terms. BGE-M3 was served through Ollama for the graph arm. Input data and upstream scorer hashes are pinned in `scripts/fetch_revision_data.py`. The public result rows contain IDs, generated short Supersede answers, scores and numeric usage.

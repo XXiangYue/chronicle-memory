@@ -1,5 +1,7 @@
 # Measured results and interpretation
 
+The later paired comparison of Graphiti, latest mention and Chronicle, with LongMemEval transfer and exact reproduction commands, is documented in [FACT_UPDATES.md](FACT_UPDATES.md).
+
 On 500 LongMemEval-S questions, ordinary retrieval scored 259/500 and memory with fallback scored 301/500 under the declared model judge. Reader input fell 20.7%.
 
 282/500 extraction attempts fell back to retrieval. Primary ingestion cost is recorded separately; reader-token reduction is not total cost reduction. These are custom model-judged results, not official leaderboard or human-validated accuracy.

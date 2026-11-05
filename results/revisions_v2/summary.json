@@ -1,0 +1,195 @@
+{
+  "arms": {
+    "latest": {
+      "requested": 200,
+      "completed": 200,
+      "sessions_completed": 1418,
+      "current_correct": 183,
+      "used_stale": 2,
+      "stages": {
+        "write": {
+          "calls": 1418,
+          "input": 232689,
+          "output": 20447
+        },
+        "route": {
+          "calls": 200,
+          "input": 17910,
+          "output": 1848
+        },
+        "reader": {
+          "calls": 200,
+          "input": 16716,
+          "output": 1202
+        }
+      },
+      "logical_total_lm_tokens": 290812,
+      "write_lm_tokens_per_100_sessions": 17851.62
+    },
+    "chronicle": {
+      "requested": 200,
+      "completed": 200,
+      "sessions_completed": 1418,
+      "current_correct": 186,
+      "used_stale": 2,
+      "stages": {
+        "write": {
+          "calls": 1418,
+          "input": 232689,
+          "output": 20447
+        },
+        "route": {
+          "calls": 200,
+          "input": 17910,
+          "output": 1848
+        },
+        "reader": {
+          "calls": 200,
+          "input": 17516,
+          "output": 1205
+        }
+      },
+      "logical_total_lm_tokens": 291615,
+      "write_lm_tokens_per_100_sessions": 17851.62
+    },
+    "graphiti": {
+      "requested": 200,
+      "completed": 200,
+      "sessions_completed": 1418,
+      "current_correct": 159,
+      "used_stale": 24,
+      "stages": {
+        "write": {
+          "calls": 3589,
+          "input": 7191706,
+          "output": 152840
+        },
+        "reader": {
+          "calls": 200,
+          "input": 17046,
+          "output": 1200
+        }
+      },
+      "logical_total_lm_tokens": 7362792,
+      "write_lm_tokens_per_100_sessions": 517951.06,
+      "embedding": {
+        "episode_wall_seconds": 4244.225917,
+        "reported_tokens": 38334,
+        "requests": 4699,
+        "summed_request_seconds": 669.779086,
+        "unmetered_requests": 0,
+        "vectors": 6855
+      }
+    }
+  },
+  "chronicle_minus_comparator": {
+    "graphiti": {
+      "paired": 200,
+      "correct": {
+        "first_only": 35,
+        "second_only": 8,
+        "first_minus_second_pp": 13.5,
+        "paired_percentile95_pp": [
+          7.5,
+          19.5
+        ]
+      },
+      "stale": {
+        "first_only": 2,
+        "second_only": 24,
+        "first_minus_second_pp": -11.0,
+        "paired_percentile95_pp": [
+          -16.0,
+          -6.5
+        ]
+      }
+    },
+    "latest": {
+      "paired": 200,
+      "correct": {
+        "first_only": 3,
+        "second_only": 0,
+        "first_minus_second_pp": 1.5,
+        "paired_percentile95_pp": [
+          0.0,
+          3.5
+        ]
+      },
+      "stale": {
+        "first_only": 0,
+        "second_only": 0,
+        "first_minus_second_pp": 0.0,
+        "paired_percentile95_pp": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "transfer": {
+    "answerable": {
+      "attempted": 72,
+      "correct": 12,
+      "execution_errors": 1,
+      "stages": {
+        "write": {
+          "calls": 3411,
+          "input": 1537508,
+          "output": 299735
+        },
+        "route": {
+          "calls": 71,
+          "input": 6857,
+          "output": 856
+        },
+        "reader": {
+          "calls": 11,
+          "input": 1271,
+          "output": 80
+        },
+        "fallback_reader": {
+          "calls": 60,
+          "input": 55524,
+          "output": 311
+        },
+        "judge": {
+          "calls": 71,
+          "input": 11497,
+          "output": 371
+        }
+      }
+    },
+    "abstention": {
+      "attempted": 6,
+      "correct": 6,
+      "execution_errors": 0,
+      "stages": {
+        "write": {
+          "calls": 283,
+          "input": 123649,
+          "output": 23696
+        },
+        "route": {
+          "calls": 6,
+          "input": 579,
+          "output": 64
+        },
+        "reader": {
+          "calls": 3,
+          "input": 287,
+          "output": 15
+        },
+        "fallback_reader": {
+          "calls": 3,
+          "input": 2707,
+          "output": 15
+        },
+        "judge": {
+          "calls": 6,
+          "input": 1044,
+          "output": 30
+        }
+      }
+    }
+  }
+}

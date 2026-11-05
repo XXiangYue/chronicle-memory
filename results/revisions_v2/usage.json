@@ -1,0 +1,18 @@
+{
+  "test_shared_extractor_router_reader_cache": {
+    "requests": 808,
+    "input": 100435,
+    "output": 15276,
+    "cache_hit_input": 0,
+    "recorded_invalid_json": 0
+  },
+  "transfer_shared_cache": {
+    "requests": 3753,
+    "input": 1663574,
+    "output": 309406,
+    "cache_hit_input": 377081,
+    "recorded_invalid_json": 22
+  },
+  "graph_ledger": "See graphiti_write_attempts.jsonl. Includes retries, uncertain charges and abandoned reservations.",
+  "limits": "Uniquely saved logical request payloads are counted once per cache. Response caching reuses repeated templates and shared controls. Model invoices and usage for initial transfer malformed responses without cached metadata are unavailable. Local embedding time on interrupted attempts was not saved."
+}

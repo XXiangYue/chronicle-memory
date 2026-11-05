@@ -2,13 +2,23 @@
 
 Source-aware, time-aware long-term memory with compact evidence and retrieval fallback.
 
-## Measured outcome
+## Repeated fact changes
+
+On 200 public synthetic Supersede conversations, the Graphiti reference system answered **159/200** current-value questions correctly, compared with **186/200** for Chronicle. Answers containing an obsolete value fell from **24 to 2**. Per 100 input sessions, logical write volume was **517,951 vs 17,852** model tokens. Both used deepseek-flash. Each conversation updated one of four personal attributes. The shared-extractor latest-mention baseline scored 183/200 with two stale answers and selected the same source quotations as Chronicle throughout.
+
+The cross-dataset check exposed the scope of this result. On LongMemEval-S knowledge updates, the new ledger answered **12/72** answerable questions and abstained correctly on **6/6**. One failed extraction is included in the answerable denominator. [Experiment, raw results and reproduction](docs/FACT_UPDATES.md).
+
+```bash
+uv run python scripts/revision_report.py verify results/revisions_v2
+```
+
+## Earlier retrieval experiment
 
 On 500 LongMemEval-S questions, ordinary retrieval scored 259/500 and memory with fallback scored 301/500 under the declared model judge. Reader input fell 20.7%.
 
 **Scope and negative findings:** 282/500 extraction attempts fell back to retrieval. Primary ingestion cost is recorded separately; reader-token reduction is not total cost reduction. These are custom model-judged results, not official leaderboard or human-validated accuracy.
 
-Measurements were made on **2026-11-01** in the original integrated workspace.
+The 500-question retrieval measurements were made on **2026-11-01** in the original integrated workspace.
 The standalone packaging was prepared on **2026-11-05**. Packaging checks are
 reported separately in `VALIDATION.json`; they are not new model benchmark runs.
 

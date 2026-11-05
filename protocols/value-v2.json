@@ -1,0 +1,14 @@
+{
+  "model": "deepseek-flash (service alias, temperature 0)",
+  "policy": "Development only before held-out outcome inspection. Keep trials, task-matched controls, failures and incomplete arms. Never impute missing measurements. Count unsuccessful attempts in cost. No extra spending after a per-arm bound; report denominator. Labels are scoring-only. Historical November 1 results separate.",
+  "source": "Supersede HF e44c0852a727d17a9c3f38022691fd7fa285ff8c; LongMemEval-S existing release",
+  "arms": [
+    "Graphiti + BGE-M3/Kuzu",
+    "Chronicle scoped revisions",
+    "latest topical mention, shared extraction"
+  ],
+  "split": "first 20 Supersede train episodes for dev; all 200 test; 72 answerable and 6 abstention transfer separately",
+  "measure": "current and stale counts, cold logical tokens and actual billed repeated-call costs separately, embedding volume/wall time. Do not aggregate token costs with unpriced local compute.",
+  "guard": "claim near-quality only if upper 95% paired quality loss and extra stale risk each <=5 percentage points, system token volume at least 20% lower; compare with latest too.",
+  "budget": "Graphiti max 32 calls per session, max 30 USD; 10K reader input; extraction output 400; missing trials visible"
+}
